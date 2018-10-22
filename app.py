@@ -28,11 +28,7 @@ print(e)
 #print z
 collection.insert(e)
 print("printed")     
-            
-      
+print(mongo_db.collection.find())            
+     
     
    
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8080))
-    app.run(host='0.0.0.0', port=port,debug=True)
-    # sentiment_anlysis()
