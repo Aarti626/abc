@@ -13,7 +13,7 @@ collection = db.candidate
 
 app = Flask(__name__)
 
-directory="/home/bsutfdemo/DataBase_Updated/candidate"
+directory="./candidate"
 for filename in os.listdir(directory):
     if filename.endswith(".json"):
         x=os.path.join(directory,filename)
