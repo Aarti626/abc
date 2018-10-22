@@ -27,7 +27,7 @@ print(e)
 #z=json.loads(e)
 #print z
 collection.insert(e)
- print("printed")     
+print("printed")     
             
       
     
