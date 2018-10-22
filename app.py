@@ -15,9 +15,10 @@ app = Flask(__name__)
 
 
 x="a1037.json"
-print x
+
 y=open(x,"r").read()
 e=json.loads(y)
+print(e)
 #print e
 #z=json.loads(e)
 #print z
