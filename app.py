@@ -5,11 +5,15 @@ from flask import Flask, render_template, request, Response, stream_with_context
 from os import listdir, rename, remove
 
 
-from pymongo import MongoClient
-connection = MongoClient()
-connection = MongoClient('localhost', 27017)
-db = connection.cognisearch
-collection = db.candidate
+import os
+import uuid
+import bottle
+import pymongo
+bottle.debug(True)
+mongo_con=pymongo.Connection(os.environ['OPENSHIFT_NOSQL_DB_HOST'],int(os.environ['OPENSHIFT_NOSQL_DB_PORT']))
+mongo_db=mongo_con['sampledb']
+mongo_db.authenticate(os.environ['OPENSHIFT_NOSQL_DB_USERNAME'],(os.environ['OPENSHIFT_NOSQL_DB_PASSWORD']))
+
 
 app = Flask(__name__)
 
