@@ -1,0 +1,35 @@
+{
+    "username": "ajayamaity", 
+    "password": "ajayamaity", 
+    "management": "neg", 
+    "name": " A. Maity", 
+    "communication": "neg", 
+    "_rev": "14-b86af03b597bc52c59a24106bebe2753", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                "C++", 
+                "JAVA"
+            ], 
+            "frontend_languages": [
+                "JQUERY"
+            ]
+        }, 
+        "text": "no title\n\nAjay A. Maity\n\nOffice Address ajay.maity@abc.com\n\nPermanent Address 256 Fitzpatrick Hall 1060 W. Addison St. Notre Dame, IN 46556 Texas (574) 631- 6039 (773) 404-2827\n\nOBJECTIVE\n\nTo obtain a job for role as Data Scientist.\n\nEDUCATION University of Notre Dame\n\nBachelor of Science in IT Engineering\n\nGPA: 3.7/4.0, awarded May 2004 Dean's List: Spring 2004\n\nStudy Abroad Program\n\nLondon, England\n\nCOURSEWORK\n\nAlgorithms and Data Structures Microprocessors and Microcontrollers Computer Design Computing & Programming\n\nControl Systems I, II Data Transfer\n\nLANGUAGES\n\nC++, JAVA, JQUERY\n\nSYSTEMS\n\nMS-DOS, UNIX, Macintosh, Windows: 9x, XP, 2000, & NT\n\nSOFTWARES\n\nProEngineer Wildfire, AutoCAD, MS Word, MS Excel\n\nEXPERIENCE\n\n10 years\n\nMEMBERSHIPS\n\nAmerican Society of Mechanical Engineers (ASME), member, 2004 Tau Beta Pi, Treasurer, 2005\n\nOrganized fundraisers grossing $3,000 National Society of Black Engineers, member, 2004 Association for Computing Machinery, member, 2003\n\nACTIVITIES\n\nRacquetball, jogging, church volunteer, math tutor\n\nREFERENCES\n\nAvailable upon request", 
+        "location": "Texas", 
+        "experience": 10
+    }, 
+    "_attachments": {
+        "a1033": {
+            "stub": true, 
+            "length": 15382, 
+            "digest": "md5-5NbzTEXzvzn0KNa0iguL0g==", 
+            "revpos": 9, 
+            "content_type": "application/pdf"
+        }
+    }, 
+    "leadership": "neg", 
+    "shortlist": [], 
+    "_id": "a1033", 
+    "email": "aarti@123.com"
+}

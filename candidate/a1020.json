@@ -1,0 +1,18 @@
+{
+    "shortlist": [], 
+    "communication": "neg", 
+    "_rev": "10-75fc7ace4a200701293bfa4e2c31ed6a", 
+    "_attachments": {
+        "a1020": {
+            "stub": true, 
+            "length": 47962, 
+            "digest": "md5-aDeGmruoJYCTM/B4ldoZOw==", 
+            "revpos": 7, 
+            "content_type": "application/pdf"
+        }
+    }, 
+    "management": "neg", 
+    "leadership": "neg", 
+    "_id": "a1020", 
+    "email": "sg@gmail.com"
+}

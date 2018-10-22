@@ -1,0 +1,481 @@
+{
+    "username": "mathew", 
+    "password": "kamleshjadhav", 
+    "management": "pos", 
+    "linkedin_id": "", 
+    "name": "Robin Mathew", 
+    "communication": "neg", 
+    "_rev": "10-41c134cde9db5ced22bec8f279557b07", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                "C", 
+                "Java"
+            ], 
+            "frontend_languages": [
+                "Html", 
+                "VB Script"
+            ]
+        }, 
+        "jobTitle": "Java Developer", 
+        "location": "London", 
+        "experience": 9, 
+        "text": "Praveen Sharma\n\nKamlesh jadhav\n\nSYNOPSIS\n\nMaster in Computer Science (MSc) professional with over 9+ years of experience in Banking & Finance domain in Oracle Administration, up gradation, migration and support for 11g/10g Databases, Oracle 11g / 10g RAC, Oracle RMAN,Oracle 10g/11g Grid Control OEM, Oracle Securities like OID, LDAP,Oracle Database vault, Installing / Upgrading OWB 10g / 11g, Oracle Application Server 10g,Installation,configuration, operation of MS SQLdatabases.\n\nCurrently associated with Fujitsu, London and working for client FSA (Financial Service Authority), London. Last employer was Finmeccanica, ITALY as Sr. Oracle DBA. Supported Oracle databases of Sun Microsystems, United Kingdom.\n\nOracle 10g Certified DBA Professional with 9+ Years of Experience in Oracle Database & Application Upgrade, Database Cloning, Patching, Installations & Building new data servers, DB Migration, Administration, Performance Tuning, Backup \u2013 Recovery, Data Guard. Worked on Oracle securities like OID, LDAP, Oracle Discoverer, Database Vault, Oracle 10g RAC, Oracle 11g, Oracle RMAN, Oracle 11g OEM & OAM, Oracle BPEL, Oracle OWB 11g, Oracle ASM.\n\nHandling Team of junior DBA\u2019s at Tricore Solutions for day to day activities and mentoring them time to time for troubleshooting any database issue.\n\nSuccessfully completed Oracle 10.2.0.2 to 10.2.0.4 Production upgrade on RAC for Sun Micro system and Oracle 9i to 10gR2 ,Oracle 10g R2 to 11g in Production/Development environment in previous company Tricore Solutions for Siemens /Simon/Ferrotec/Vertex ,USA. Build Oracle DataGuard 10g and DR Rehearsal Test for FAILOVER/ SWITCHOVER for Client FSA, London.\n\nSuccessfully implemented internal projects like Oracle 10g to 11g Upgrades/Migration on cross platform, DB upgrade/migration, Standby, RAC etc in last Organization Sapient Corporation .\n\nWorked in a Team, handling more than 21 clients for Production support & had worked in L2/L3 Support for day to day maintenance of Oracle Databases at Sun Microsystems,UK.\n\nTeam Leader with strong analytical, problem solving & organizational abilities.\n\nTechnical Skills:\n\nCertifications:\n\nOracle Certified Professional (OCP 10g DBA) Database Administrator in Oracle10g.\n\nOracle 10g RAC (Real Application Certified) Administrator.\n\nSun Solaris System Administrator Operating System 10 certified (Part 1) only.\n\nSkill Sets\n\nInstallation of Oracle Databases, 11g,10g and related software, Installation of Oracle Application Server (10g iAS), Single Sign On, Oracle Database cloning (all scenarios), Oracle Database and Applications Migration and Upgrades, 10g to 11g upgrade, Implementing Database Vault with EBS, RAC Implementation with EBS, JDK upgrade, NLS implementation, Character set conversion, Utilities like opatch, reposinst.sh, runInstaller, netca etc. Troubleshooting and configuring Workflow mailer, Unix Administration, EUL Clone, Implemented OID with EBS 11i, Export-Import EUL, Installing & Upgrading Portals & Oracle Discoverer. Installation, configuration & operation of the MSSQL Databases.\n\nRelational Databases / DBMS:\n\nORACLE RDBMS (11g, 10gR2, 9i, 8i, 8.0.x, 7.3.2.3, 7.1 & 7.0), DB2 (8.x, 7.x), OWB 11g, SYBASE, SQL SERVER 2005\n\nLanguages:\n\nSQL*Plus, PL/SQL, SQL*Menu (5.0),Toad, PRO*C (2.0), Unix Shell Scripting, SQL Scripting, Bash, C, csh, ksh, Oracle Web Applications Server, Html, Java Script, VB Script, Crontab etc\n\nProducts:\n\nOEM 10g/ 11g,Oracle Application Server 10g, Oracle Web Applications Server, Oracle Internet Directory(OID), Oracle SOA, Oracle E-Business Suite 11i, Html etc.\n\nApplication Modules:\n\nFinancials (AR, AP, GL, PO), Manufacturing (ONT, OE, INV, PO), BOM, CRM (Sales Comp), WIP, Assets, Oracle Projects, HRMS, Payroll etc\n\nTools: Quest Toad, OEM, PL/SQL Developer, OEM (with Repository), RMAN, OAM\n\nOperating Systems:\n\nEnterprise Linux AS 3, Linux Red Hat 7.0, 8.0, Sun Solaris 2.6, 2.8,5.10, AIX 5.2, Windows NT, HP-UX 10.20, 11.0\n\nVersion Control Systems: Serena Change man Version Control System (PVCS), Email Center System\n\nEMPLOYMENT [29th March 2010 to Present...]\n\nFujitsu, London Financial Service Authority, London\n\n-- Currently Managing the Oracle Databases of FSA, London (SABRE II (ZEN) Project) on Oracle ASM 10gR2, 11gR1.Supporting Production and TEST, Development and Performance Testing Database. Managing & Tuning the ETL running on Oracle Warehouse Builder 10g. Liaisoning with Oracle Web Logic Team and Testers for performance issue and testing of ETL performances.\n\nSenior Oracle Database Administrator, FUJITSU (London)\n\n--Working as Senior Oracle DBA in Implementation of \u201cSABRE II (ZEN) Project\u201d in FSA, London (2011). ZEN Project will be used by the FSA for analysing and reporting on the Security Derivatives market.\n\nRole & Responsibility (Fujitsu):\n\nLeading Oracle DBA Team for maintenance and Operational Support of Oracle Databases.\n\nTroubleshooting & Diagnosis Oracle (ASM) databases and application Issues. Configure Database for Optimum performance on Sun Solaris.\n\nCloning Oracle database through RMAN Duplicates. Maintaining the Oracle Backup and recoveries through RMAN.\n\nImplemented RMAN Backup Policy for cumulative and incremental compressed backups of ZEN databases.\n\nConfigured & monitoring the PROD and pre-prod databases on OEM Grid 10gR2.\n\nPerformance Analysis of Oracle Databases through OEM and SQL Tuning the Databases with Developer for Query Optimization. Testing the SQL Code in testing environment or in physical Data Guard for Tuning the SQL code.\n\nProduction archive log Maintenance through Shell Scripting and managing all databases issues through OEM alerts and shell scripting.\n\nImplemented Physical Data Guard 10G on RAC for performance testing environment and Build multiple physical Data Guard for analyzing the performance issues of Production Environment.\n\nManaging DR Rehearsal Test for FAILOVER and SWITCHOVER (Database part) before GO-LIVE for ZEN Project.\n\nOracle RAC Database Statistics Gathering for Production and Datawarehouse environment.\n\nManaging and Supporting Oracle databases during Sumlive (Before Go-Live, simulated same as after GO-Live)\n\nDeploying application (code) and Change Control - Releases across TEST, UAT, pre-production and Production databases (on both RAC and Non-RAC Databases).\n\nPerformance Tuning of Oracle RAC Database and OWB components. Managing Issues related to ETL performance and Data Ingestions.\n\nUpgraded the Oracle Databases of \u201cZEN Project\u201d on ASM from 10g Rel2 RAC to 11g Rel1 RAC.\n\nPlans and implement sound backup and recovery policies and procedures for Oracle databases. Implementing the incremental, cumulative incremental and full RMAN backup for each database to have space management and effective recovery.\n\nUpgrading and migrating the database to different version depending on Business requirements. (For Example 10g R2 to 11gR1, 11gR2 to 10gR1 on different OS)\n\nFlashback the Oracle RAC Databases for restoration and performance testing.\n\nDay to Day Management of the performance of database to ensure they are operating effectively and make changes to environment as business needs.\n\nEMPLOYMENT [6th June 2010 To 28th March 2011]\n\nFinmeccanica, ITALY European Chemical Agency, Finland\n\nFinmeccanica Spa. is an Italian conglomerate. Finmeccanica is the second largest industrial group and the largest of the hi-techindustrial groups based in Italy. It works in the fields of defence, aerospace, security, automation, transport and energy. It is partially owned by the Italian government, which holds about 30% of Finmeccanica's shares.\n\nSenior Database Administrator\n\nWorked as Senior DBA Consultant for client ECHA (European Chemical Agency), Helsinki.\n\n{The European Chemicals Agency (ECHA) is an agency of the European Union which manages the technical, scientific and administrative aspects of the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) system}\n\n-- Managing the databases of ECHA on Oracle 11gR2, 11gR1 and 10gR2, 10gR1. Supporting Production and TEST, Development and Performance Testing Database. Liaisoning with Oracle Web Logic Team and Database warehousing Team for performance issue and testing.\n\nEnsuring that all incidents or problems are resolved within the timescale specified in the agreed SLA (Service level Agreement).\n\nFlashback the databases for performance testing.\n\nPlans and implement sound backup and recovery policies and procedures for Oracle databases. Implementing the incremental, cumulative incremental and full RMAN backup for each database to have space management and effective recovery.\n\nSupporting end user or testing users for day to day issues related to Oracle databases.\n\nUpgrading and migrating the database to different version depending on Business requirements. (For Example 10g R2 to 11gR1, 11gR2 to 10gR1 on different OS)\n\nDay to Day Management of the performance of database to ensure they are operating effectively and make changes to environment as business needs.\n\nEnsuring the change management process is followed for any changes to the databases infrastructure and new software releases.\n\nMonitor relevant system to ensure all developments from an application and database perspective are optimal in terms of performance, scalability and usability.\n\nEnsure all relevant technical support documentation is maintained and updated to be in line with current standard of quality and detail.\n\nRole & Responsibility (ECHA):\n\nOracle Enterprise Manager (OEM) 11R1 implemented on Red Hat Enterprise Linux Server release 5.5. Installation of OEM 11g agents on Sun O/S (Failover Cluster) environment and configured these databases on OEM 11gR1. Firewall Configuration setup and OEM Repository upgraded by moving OEM jobs and metrics for each databases from OEM10g to 11g.\n\nOracle Database Statistics Gathering for Production and Datawarhouse environment.\n\nImplemented RMAN Backup Policy for cumulative and incremental compressed backups of Oracle databases.\n\nImplement Active Data Guard 11G for performance testing environment and prepared Data guard of this Active Data Guard for analyzing the performance issues of Production Environment.\n\nUpdate the database with latest PSU patches.\n\nProduction archive log Maintenance through Shell Scripting and managing all databases issues through OEM alerts and shell scripting.\n\nImplemented Oracle Configuration Manager (OCM) for non-prod database for collecting info related to installed patches, O/S platform, versions and network configurations etc.\n\nUpgrading the Oracle Warehouse Builder (OWB) from 10G to 11GR2. Upgraded the oracle database from 10G to 11G followed by OWB Upgrade. Also, Installed the fresh 11gR1 OWB for Database Warehouse environment.\n\nReplicating the Database through Oracle Streams.\n\nUpgrading the Databases from 10G to 11GR2 and moving them on Sun (Failover Cluster) environment.\n\nExporting/Importing the 10G/11G Databases through export/import data pumps (or OEM).\n\nImplemented RMAN Backup Policy for cumulative and incremental compressed backups of ECHA database.\n\nImplemented Multiple Active Data Guard 11G for performance testing environment and prepared many Active Data Guard for analyzing the performance issues of Production Environment.\n\nUpgrading the Oracle Warehouse Builder from 10G to 11GR2. Upgraded the oracle database from 10G to 11G followed by OWB Upgrade.\n\nPerformance Analysis of Oracle Databases through OEM and SQL Tuning the Databases with Developer for Query Optimization. Testing the SQL Code in Testing environment or in Active Data Guard for Tuning the SQL code.\n\nEMPLOYMENT [April 2008 to March 2010]\n\nGavs Technologies (Europe), UK SUN Microsystems, UK\n\nSenior Oracle DBA\n\nWorked as Senior Oracle DBA (Tier 2 IBIS DBA) with SUN Microsystems and handling 3500 Legacy database and 6 RAC databases containing 4 nodes each. Supporting Production and Non-Production, Development databases which have blend of Oracle 9i, 10g and Oracle 11g and Oracle E-Business Suite 11i and Oracle Application Server 10g.\n\nRole & Responsibility:\n\nManaging Sun Micro system (IBIS) RAC Production, Beta (Test) and Development Databases 4 nodes cluster.\n\nDay-to-Day Oracle Applications maintenance and troubleshooting.\n\nSupporting DBA for Project work accomplished for upgrading Sun Micro system internal Oracle Production database upgrade from Oracle10g (10.2.0.2) Database 4 node RAC database to 10.2.0.4.\n\nManagement tasks such as Starting and stopping of Oracle Application Server/SOA Server instances and its components.\n\nManaging Oracle Application 11.5.10 like request handling, responsibilities, email centre, concurrent manager issue, locking issues and Develops, documents, implements operational support for Development Databases.\u00a0\n\nApplications cloning (Rapid Clone - Multi to Single Node, Multi to Multi Node).\n\nInstalling and configuring Oracle SOA Suite 10g.\n\nConfiguring Workflow mailer notification and resolving custom workflow issues.\n\nDatabase cloning (Rapid as well as Manual clone).\n\nAssists in database maintenance in areas such as access methods and times, validation\u00a0checks, protection and security, documentation guidelines, statistical methods and database\u00a0dictionaries.\n\nAD Utilities (adpatch, adcfgclone, adadmin, adctrl, adautocfg, admrgpch).\n\nVarious Database housekeeping jobs and Table space management.\n\nInstallation and Maintenance of Oracle Data Guard (Standby Databases).\n\nMaintain the profile options for system, site, user etc and OATM migration.\n\nRaise and follow up Metalink Technical Assistance Request for resolving Critical issues.\n\nRefreshing /Cloning the database and application on demand or as per Change Request.\n\nApplying Patches i.e. Day Light Saving patches, Oracle CPU patches & DB patches (Opatch)\n\nResponsible for installation, configuration & operation of MS SQL Databases.\n\nManagement of oracle application 11.5.10.2 and concurrent manager & printer issue.\n\nTroubleshooting RMAN Backups and replica build issue.\n\nApplying Database (RDBMS) and application/security patches to Dev, Test and production environment (9i/10g/11g) and Develops new utilities and tools for internal requirements.\n\nWorking on Sev1, Sev2 and also providing 24*7 on Call Support.\n\nRefreshing Databases using RMAN/ Hot Backup.\n\nManagement of Standby Database for data transfer and Replica Instances for reporting.\n\nInstallation and Administration of Oracle 10g Grid Control.\n\nManaging Production databases present in Sun Cluster Environment.\n\nRefreshing/full cloning the database and 11i Application clone using adconfig/rapid clone.\n\nMonitoring the Database & events using OEM.\n\nTuning of Oracle Database (for locking, Wait Events using statspack, AWR, ADDR reports).\n\nTier II related Support and Day to Day basis work on remedy based Ticket system.\n\nDay to Day Database Support Issues on PROD, BETA AND UAT Environments.\n\nTroubleshooting RAC Environment.\n\nProviding Support through DR (Demand Request) and CR (Change Request) for Developer & PPM request.\n\nManagement of Oracle Discoverer users, Workbook Migration and EUL.\n\nTroubleshooting Oracle Internet Directory(OID), LDAP Binding etc\n\nEMPLOYMENT [April 2007 to January 2008]\n\nSAPIENT Corporation Vertex Data Science Ltd, UK\n\nSenior Oracle DBA\n\nClients : Thurrock Council, West Minster Council, United Kingdom\n\nO/S : SunOS 5.9, Linux, HP UX, IBM AIX 5.3\n\nSoftware : Oracle Applications Release 11i (11.5.7, 11.5.9, 11.5.10, 11.5.10.2)\n\nThurrock Council, Grays (Essex), UK\n\nRole & Responsibility:\n\nKeeping track of health of Thurrock council production system. Constant performance check and vigil onto Concurrent Request run time on production environments.\n\nDevelop Unix shell script to automate morning health checks.\n\nApplying Patches i.e. Day Light Saving patches, Oracle CPU patches etc\n\nCloning apps environment and generated database copies for development, test and performance environment.\n\nRefreshing/full cloning the database and application using adconfig/rapid clone.\n\nManaging Oracle Application 11.5.10 like request handling, responsibilities, email centre, concurrent manager issue, locking issues.\n\nMaintaining/modifying/adding cron-jobs and database jobs.\n\nAdministration of Databases on 10g Real Application Cluster (RAC) with ASM.\n\nManagement of oracle application 11.5.10.2 and concurrent manager & printer issue.\n\nApplying security/ application/rdbms patches to dev, test and production environment.\n\nApplying quarterly released security patches.\n\nResolving production issues by working in sync with Oracle through TAR.\n\nCreate and maintain documentation, including database clone and upgrade.\n\nWest Minster Council, UK\n\nResponsible for the management, installation, maintenance and performance of all database instances and oracle application software. To ensure high levels of service availability in line with business service requirements and upgrading the Oracle E-business Suite 11.5.10 to R12.1.\n\nRole & Responsibility:\n\nSetting up new environments (Development, Testing, integration etc).\n\nProject Planning and defining Backup strategy for Hot and Cold backups.\n\nCreate and maintain documentation, including database clone and upgrade.\n\nPart of change management team for all database implementations.\n\nInstall, upgrade and maintain database software, included creating user accounts, cloning database systems, ensuring nightly backups are performed, applying software patches.\n\nImplementing Flashback features in Oracle 10g databases.\n\nUsing Oracle Utilities like Export, Import and Oracle Data Pump.\n\nRefreshing Databases using RMAN /Hot Backup.\n\nRecommendations for reducing the Backup & Recovery Time.\n\nInstallation of Oracle 10.2.0.1 and application of patch set 10.2.0.4.\n\nRefreshing database at user requirements.\n\nEMPLOYMENT [January 2005 to March 2007]\n\nTRICORE Solutions, USA TRICORE Solutions, INDIA\n\nProject Lead - Oracle DBA\n\nClients : Net scout, Vertex, Simon, Siemens (Telecom), Ferrotec, Scan Soft and AAVID.\n\nO/S : SunOS 5.9, Linux, HP UX, IBM AIX 5.3 and Windows NT\n\nSoftware : Oracle Applications Release 11i (11.5.5, 11.5.7, 11.5.9, 11.5.10, 11.5.10.1, 11.5.10.2)\n\nWorking as Project Lead- Oracle DBA and handling more than 10 US-Based Clients. Each Client got separate working environments therefore, creating and maintaining documentation for cloning, patching, up gradation, and any customizations. Role also included mentoring of junior DBA\u2019s for any technical issues.\n\nRole & Responsibility:\n\nManaging team of junior Oracle DBA.\n\nPROD/DEV/UAT Upgraded to 11.5.10.2 Instance on SUN Solaris/HP-UX/LINUX.\n\nCoordinating with onsite team & client to maintain better understanding of system.\n\nUp gradation from 11.5.7 to 11.5.10 Instance on SUN Solaris/HP-UX/LINUX\n\nApplying Patches i.e. Day Light Saving patches, Oracle CPU patches etc\n\nUp gradation from 11.5.4 to 11.5.10 Instance for Vertex on LINUX O/S.\n\nTroubleshooting at APPS Level (Oracle E-Business Suite 11i).\n\nSupport at Client end.\n\nRefreshing/full Cloning the database and application using adconfig/rapidclone.\n\nInstallation of 11i (11.5.10, 11.5.7 etc) and 9i.\n\nMonitoring the Database & events using OEM.\n\nImplementing the scripts for monitoring the events for databases.\n\nPRODUCTION Up gradation from 11.5.7 to 11.5.10 on SUN O/s.\n\nDB Upgrade from 8i to 9i and 9i to 10gR2.\n\nMigration of 9i database and application from HP-UX to LINUX.\n\nBackups and Recovery i.e. Exports/Imports, hot archive log backups, cold offline backups etc\n\nShell Scripting in csh and ksh .\n\nSetting and Installing Oracle Enterprise Manager and Enterprise Backup Utility.\n\nInstallation & Creation of Oracle Database 9i/10g/11g on HP-UX, Sun Solaris, red Hat Enterprise Linux.\n\nManual Backups of Oracle Databases through tar and cpio.\n\nOracle E-Business Suite 11i Production Up gradation for Ferrotec, USA Client from 11.5.7 to 11.5.10.2 Instance on SUN Solaris.\n\nWorked on Sev1, Sev2 Issues and also providing 24*7 On-Call Support\n\nOracle E-Business Suite 11i Production Up gradation for Siemens (Telecom) from 11.5.9 to 11.5.10.2 on HP-UX.\n\nRaise and follow up Metalink Technical Assistance Request for resolving Severity#1 issue\n\nEMPLOYMENT [May 2002 to December 2004]\n\nGE Capital, INDIA ASB Bank Limited, New Zealand\n\nOracle Database Administrator\n\nClient : EEF (European Equipment Finance, UK)\n\nO/S : Sun Solaris, Oracle 9i, VERITAS Cluster Server (VCS)\n\nWorking as Oracle DBA and handling databases of ASB Bank. Responsible for supporting, upgrading & maintaining Oracle databases for any day to day work for cloning, patching, up gradation, migration of databases and any customizations.\n\nRole & Responsibility:\n\nInstallation of Oracle 8i, 9i on Unix, Linux & Oracle 11i on Unix Sun Solaris 5.8.\n\nHandling Alerts about invalid Objects, CPU Usage, Long Pending processes.\n\nManual Backups of Oracle Databases through tar and cpio.\n\nWorking on Change Request, planning & Implementation of maintenance activities on day to day basis.\n\nTuning of Database (Tuning of Shared Pool, Buffer Cache, Redo Buffers, and Rollback Segments).\n\nActivities included working on Sev-1, Sev-2 Issue.\n\nAdministration of Databases in VERITAS Clustered Environment.\n\nMaintaining the Physical Standby Database for Report Generation and also managing the Production Databases.\n\nWorking on Change Request, planning & Implementation of maintenance activities on day to day basis.\n\nUp gradation of Oracle Database from 8.1.0.7 to 9.2.0.1 and 9.2.0.4 to 9.2.0.7.\n\nManual cloning Oracle databases.\n\nHandling the issues related to Forms, Web and Report Server.\n\nHandling the issues related to Performance issues in Oracle database.\n\nTuning of Database (Tuning of Shared Pool, Buffer Cache, Redo Buffers, and Rollback Segments).\n\nManaging Privileges, Roles, Users, Tables, Indexes and Security of database.\n\nMonitoring Table space Sizing & Growth.\n\nMonitoring Alerts about invalid Objects, CPU Usage, and Long Pending processes.\n\nResolving the Users Daily issues related to Apps & Database.\n\nManual Backups & Recovery.\n\nSUMMARY\n\nOracle 10g Certified DBA with 9 years+ as Oracle DBA in Banking, Telecom and Finance Domain in Installation, Administration,Upgradation of Oracle Databases 10g/11g and support on OEM10/11g Grid Control, Oracle 10g RAC,Oracle RMAN,DataGuard,Oracle Internet Directory(OID10g),Oracle ASM, RDBMS Patching,Performance Tunning and Backup-Recovery.\n\nCommerce Graduate from Sri Aurobindo College (University of Delhi): 1999 - INDIA\n\nMaster Degree in Computer Science (MCA) from M.D University, Rohtak - INDIA\n\nOracle Certified Professional - 9i (OCP)\n\nOracle Certified Professional \u2013 10g (OCP)\n\nOracle RAC Certified -10g\n\nSun Solaris System Administrator O/S 10 (Part-1) Certified."
+    }, 
+    "linkedin": {
+        "data": ""
+    }, 
+    "_attachments": {
+        "a1007": {
+            "stub": true, 
+            "length": 75264, 
+            "digest": "md5-UUstnuuOor4of7XiFzM0RA==", 
+            "revpos": 5, 
+            "content_type": "application/msword"
+        }
+    }, 
+    "shortlist": [], 
+    "contact": "7483746234", 
+    "leadership": "pos", 
+    "_id": "a1007", 
+    "email": "mathew@insta.in", 
+    "attachment_timestamp": "2017-01-12 19:49:56.519000", 
+    "personality": {
+        "text": "Accomplished Developer of Buisness Intelligence in Big Data with proven track record of 2 years in managing successful analytics and visualization through the full project lifecycle. \r\nProficient in extracting and capturing requirements that identify market opportunities and define use cases with strong focus on development and designing process. Adept at designing user interfaces, reports and workflows in tools like QlikView, Qlik Sense and Tableau that are intuitive and efficient for the end user. Excellent research, analytical, problem solving, and organization skills enabling the delivery of projects on time. Enthusiastic, results-oriented individual with strong aptitude for quickly mastering new learnings on work.", 
+        "insights": {
+            "warnings": [
+                {
+                    "message": "There were 101 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+                    "warning_id": "WORD_COUNT_MESSAGE"
+                }
+            ], 
+            "tree": {
+                "id": "r", 
+                "name": "root", 
+                "children": [
+                    {
+                        "id": "personality", 
+                        "name": "Big 5", 
+                        "children": [
+                            {
+                                "category": "personality", 
+                                "percentage": 0.0138586249170468, 
+                                "id": "Agreeableness_parent", 
+                                "name": "Agreeableness", 
+                                "children": [
+                                    {
+                                        "category": "personality", 
+                                        "name": "Openness", 
+                                        "sampling_error": 0.0659523982, 
+                                        "id": "Openness", 
+                                        "percentage": 0.928601498348751, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.869073327232657, 
+                                                "id": "Adventurousness", 
+                                                "sampling_error": 0.0550418968, 
+                                                "name": "Adventurousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.414450555467884, 
+                                                "id": "Artistic interests", 
+                                                "sampling_error": 0.1113075188, 
+                                                "name": "Artistic interests"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.051353602858197, 
+                                                "id": "Emotionality", 
+                                                "sampling_error": 0.0517651273, 
+                                                "name": "Emotionality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.853899125032273, 
+                                                "id": "Imagination", 
+                                                "sampling_error": 0.0693262238, 
+                                                "name": "Imagination"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.913624479851884, 
+                                                "id": "Intellect", 
+                                                "sampling_error": 0.0610290297, 
+                                                "name": "Intellect"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.996332618279617, 
+                                                "id": "Liberalism", 
+                                                "sampling_error": 0.0890296736, 
+                                                "name": "Authority-challenging"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Conscientiousness", 
+                                        "sampling_error": 0.0824088429, 
+                                        "id": "Conscientiousness", 
+                                        "percentage": 0.292784163229882, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.928353814004596, 
+                                                "id": "Achievement striving", 
+                                                "sampling_error": 0.1055874616, 
+                                                "name": "Achievement striving"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.52885676468125, 
+                                                "id": "Cautiousness", 
+                                                "sampling_error": 0.0975884913, 
+                                                "name": "Cautiousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.206897898977164, 
+                                                "id": "Dutifulness", 
+                                                "sampling_error": 0.067154119, 
+                                                "name": "Dutifulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.139989337471389, 
+                                                "id": "Orderliness", 
+                                                "sampling_error": 0.0751290111, 
+                                                "name": "Orderliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.602906166115586, 
+                                                "id": "Self-discipline", 
+                                                "sampling_error": 0.0507920232, 
+                                                "name": "Self-discipline"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.976633621623818, 
+                                                "id": "Self-efficacy", 
+                                                "sampling_error": 0.0985050252, 
+                                                "name": "Self-efficacy"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Extraversion", 
+                                        "sampling_error": 0.0617695447, 
+                                        "id": "Extraversion", 
+                                        "percentage": 0.4260203840692, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.992702036036584, 
+                                                "id": "Activity level", 
+                                                "sampling_error": 0.0837621388, 
+                                                "name": "Activity level"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.967247415036196, 
+                                                "id": "Assertiveness", 
+                                                "sampling_error": 0.0891753049, 
+                                                "name": "Assertiveness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.203716389836728, 
+                                                "id": "Cheerfulness", 
+                                                "sampling_error": 0.1119056441, 
+                                                "name": "Cheerfulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.745059370086135, 
+                                                "id": "Excitement-seeking", 
+                                                "sampling_error": 0.0854133366, 
+                                                "name": "Excitement-seeking"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.09425835874275, 
+                                                "id": "Friendliness", 
+                                                "sampling_error": 0.0805301172, 
+                                                "name": "Outgoing"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0516747236894493, 
+                                                "id": "Gregariousness", 
+                                                "sampling_error": 0.0619201017, 
+                                                "name": "Gregariousness"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Agreeableness", 
+                                        "sampling_error": 0.10255035, 
+                                        "id": "Agreeableness", 
+                                        "percentage": 0.0138586249170468, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.228292055572637, 
+                                                "id": "Altruism", 
+                                                "sampling_error": 0.0760682993, 
+                                                "name": "Altruism"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.483596425443735, 
+                                                "id": "Cooperation", 
+                                                "sampling_error": 0.0845832417, 
+                                                "name": "Cooperation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.00962321059003568, 
+                                                "id": "Modesty", 
+                                                "sampling_error": 0.0609293377, 
+                                                "name": "Modesty"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0495292369693173, 
+                                                "id": "Morality", 
+                                                "sampling_error": 0.067603813, 
+                                                "name": "Uncompromising"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.214288884764153, 
+                                                "id": "Sympathy", 
+                                                "sampling_error": 0.1039066288, 
+                                                "name": "Sympathy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.998766754976897, 
+                                                "id": "Trust", 
+                                                "sampling_error": 0.0625086218, 
+                                                "name": "Trust"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Emotional range", 
+                                        "sampling_error": 0.0972321215, 
+                                        "id": "Neuroticism", 
+                                        "percentage": 0.418023068928774, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.464718611818561, 
+                                                "id": "Anger", 
+                                                "sampling_error": 0.1000289379, 
+                                                "name": "Fiery"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.647810077791335, 
+                                                "id": "Anxiety", 
+                                                "sampling_error": 0.0596856836, 
+                                                "name": "Prone to worry"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.773969643578135, 
+                                                "id": "Depression", 
+                                                "sampling_error": 0.0640721302, 
+                                                "name": "Melancholy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0294044577935743, 
+                                                "id": "Immoderation", 
+                                                "sampling_error": 0.057825147, 
+                                                "name": "Immoderation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.930745894552751, 
+                                                "id": "Self-consciousness", 
+                                                "sampling_error": 0.0617807069, 
+                                                "name": "Self-consciousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.51067629194557, 
+                                                "id": "Vulnerability", 
+                                                "sampling_error": 0.0915233975, 
+                                                "name": "Susceptible to stress"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "needs", 
+                        "name": "Needs", 
+                        "children": [
+                            {
+                                "category": "needs", 
+                                "percentage": 0.995684688931766, 
+                                "id": "Curiosity_parent", 
+                                "name": "Curiosity", 
+                                "children": [
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.740077424192488, 
+                                        "id": "Challenge", 
+                                        "sampling_error": 0.088429733, 
+                                        "name": "Challenge"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.405165438494885, 
+                                        "id": "Closeness", 
+                                        "sampling_error": 0.0871982404, 
+                                        "name": "Closeness"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.995684688931766, 
+                                        "id": "Curiosity", 
+                                        "sampling_error": 0.1257625276, 
+                                        "name": "Curiosity"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.564158956750784, 
+                                        "id": "Excitement", 
+                                        "sampling_error": 0.1151440412, 
+                                        "name": "Excitement"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.400993310565601, 
+                                        "id": "Harmony", 
+                                        "sampling_error": 0.1155061705, 
+                                        "name": "Harmony"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.413481461193124, 
+                                        "id": "Ideal", 
+                                        "sampling_error": 0.1046454378, 
+                                        "name": "Ideal"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.78660939916344, 
+                                        "id": "Liberty", 
+                                        "sampling_error": 0.1517394696, 
+                                        "name": "Liberty"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.583268643198199, 
+                                        "id": "Love", 
+                                        "sampling_error": 0.1062249218, 
+                                        "name": "Love"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.908567155373046, 
+                                        "id": "Practicality", 
+                                        "sampling_error": 0.0926283771, 
+                                        "name": "Practicality"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.585812041470999, 
+                                        "id": "Self-expression", 
+                                        "sampling_error": 0.0859097853, 
+                                        "name": "Self-expression"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.762524047103291, 
+                                        "id": "Stability", 
+                                        "sampling_error": 0.1123930677, 
+                                        "name": "Stability"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.854446916124806, 
+                                        "id": "Structure", 
+                                        "sampling_error": 0.0845729921, 
+                                        "name": "Structure"
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "values", 
+                        "name": "Values", 
+                        "children": [
+                            {
+                                "category": "values", 
+                                "percentage": 0.10006700643331, 
+                                "id": "Conservation_parent", 
+                                "name": "Conservation", 
+                                "children": [
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.10006700643331, 
+                                        "id": "Conservation", 
+                                        "sampling_error": 0.0718556101, 
+                                        "name": "Conservation"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.752824862994209, 
+                                        "id": "Openness to change", 
+                                        "sampling_error": 0.06958586, 
+                                        "name": "Openness to change"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.119900725072995, 
+                                        "id": "Hedonism", 
+                                        "sampling_error": 0.1435296613, 
+                                        "name": "Hedonism"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.539287064466796, 
+                                        "id": "Self-enhancement", 
+                                        "sampling_error": 0.1094344582, 
+                                        "name": "Self-enhancement"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.685227573234349, 
+                                        "id": "Self-transcendence", 
+                                        "sampling_error": 0.087533737, 
+                                        "name": "Self-transcendence"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            "word_count": 101, 
+            "id": "*UNKNOWN*", 
+            "source": "*UNKNOWN*", 
+            "word_count_message": "There were 101 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+            "processed_lang": "en"
+        }
+    }
+}

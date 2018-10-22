@@ -1,0 +1,36 @@
+{
+    "username": "mariyakagzi", 
+    "_id": "a1024", 
+    "name": "Mariya Kagzi", 
+    "communication": "neg", 
+    "_rev": "11-f51616fb7a1580c3fe8d126475ea9fad", 
+    "_attachments": {
+        "a1024": {
+            "stub": true, 
+            "length": 8458, 
+            "digest": "md5-L9AaVt+vvnjpXD2n7JhGJQ==", 
+            "revpos": 7, 
+            "content_type": "application/pdf"
+        }
+    }, 
+    "email": "mariya@abc.com", 
+    "shortlist": [], 
+    "leadership": "neg", 
+    "management": "neg", 
+    "password": "mariyakagzi", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                "PYTHON"
+            ], 
+            "frontend_languages": [
+                "AJAX", 
+                "JQUERY"
+            ]
+        }, 
+        "jobTitle": "Java Developer", 
+        "location": "Chicago", 
+        "experience": 12, 
+        "text": "sample resume\n\nMariya Kagzi\n\nOffice Address mariya.kagzi@abc.com Permanent Address\n\n256 Fitzpatrick Hall 1060 W. Addison St. Notre Dame, IN 46556 Chicago, IL 60613 (574) 631- 6039 (773) 404-2827\n\nOBJECTIVE\n\nTo obtain a job for role as Data Scientist.\n\nEDUCATION\n\nUniversity of Notre Dame\n\nBachelor of Science in IT Engineering\n\nGPA: 3.7/4.0, awarded May 2004 Dean's List: Spring 2004\n\nStudy Abroad Program\n\nLondon, England\n\nCOURSEWORK\n\nAlgorithms and Data Structures Microprocessors and Microcontrollers Computer Design Computing & Programming\n\nControl Systems I, II Data Transfer\n\nLANGUAGES\n\nPYTHON, JQUERY, AJAX\n\nSYSTEMS\n\nMS-DOS, UNIX, Macintosh, Windows: 9x, XP, 2000, & NT\n\nSOFTWARES\n\nProEngineer Wildfire, AutoCAD, MS Word, MS Excel\n\nEXPERIENCE\n\n12 years\n\nMEMBERSHIPS\n\nAmerican Society of Mechanical Engineers (ASME), member, 2004 Tau Beta Pi, Treasurer, 2005\n\nOrganized fundraisers grossing $3,000 National Society of Black Engineers, member, 2004 Association for Computing Machinery, member, 2003\n\nACTIVITIES\n\nRacquetball, jogging, church volunteer, math tutor\n\nREFERENCES\n\nAvailable upon request"
+    }
+}

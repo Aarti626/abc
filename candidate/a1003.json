@@ -1,0 +1,613 @@
+{
+    "username": "neil", 
+    "password": "neil", 
+    "management": "pos", 
+    "linkedin_id": "sudha-ramaswamy-8b928911", 
+    "shortlist_status": "You have been shortlisted  for web developer job in accenture in texas. We will notify you soon regarding interview date.", 
+    "communication": "pos", 
+    "_rev": "18-0d8328a85dd62d97750e4c6bf2380eaa", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                "Java", 
+                "C++"
+            ], 
+            "frontend_languages": [
+                "HTML"
+            ]
+        }, 
+        "jobTitle": "Java Developer", 
+        "location": "India", 
+        "experience": 7, 
+        "text": "Resume of Sr\n\nNeil\n\nOracle DBA\n\nhemant.b.aher@gmail.com\n\nPROFILE\n\nA highly result oriented Skilled Oracle DBA certified Professional with extensive experience in Database Administration on Production databases , Unix Administration, good team player, organization with excellent communication skills. I have over 7 years of active experience. I have extensive experience in installation and configuration, system implementation and problem trouble shooting. My experience cut across different organizations, which includes financial, government, healthcare and business systems. I am a detail-oriented professional with extensive customer service experience.\n\nCERTIFICATIONS\n\nOracle Certified in Oracle Database 10g: Real application Clusters Administration.\n\nOracle Certified Professional (OCP) in 10g Database Administration.\n\nOracle Certified Professional (OCP) in 9i Database Administration.\n\nOracle Certified Associate (OCA) in 9i Database Administration.\n\nCisco Certified Network Associate (CCNA)\n\nEDUCATION\n\nBachelor of Computer Engineering, University of Mumbai, India. June 2001\n\nKEY STRENGTHS\n\nAll of my experience & knowledge has been gained across the major Oracle database versions (8i, 9i & 10g) and a wide range of operating systems (MS-Windows 2000, 2003, NT Server, UNIX/Linux, Sun Solaris, HP-UX & AIX). I have been exposed to a wide range of technologies and developed a broad set of technical skills and a very strong background in Oracle Database & flavors of UNIX operating system.\n\nExpertise on database administration for Oracle 10g/9i/8i with experience within very large scale database environment and mission critical production databases.\n\nExperience in 10g Real Application Clusters (RAC) installation with ASM and maintenance of the same on Production environment.\n\nExperience on database upgrade from Oracle 8i to Oracle 9i and eventually to 10g on production environment.\n\nExcellent knowledge of SQL*Plus, SQL*Net, SQL*Loader, Enterprise Manager.\n\nExpertise on database backup/recovery strategy (RMAN, Export/Import & Datapump) on Production environment.\n\nPerformance Tuning, Capacity Planning, hot standby databases, database cloning, refresh, and patch management.\n\nSetup oracle Enterprise Manager (OEM) 10g for database monitoring/performance/diagnostics.\n\nDataguard implementation and maintenance for Disaster Recovery .\n\nExperience in Performance Tuning (I/O, Memory & SQL Tuning etc) by working in development area using STATSPACK and AWR reports as the main tool to tune SQL queries.\n\nExperience in Database migration from 9i to 10g on Production/Development databases.\n\nLiasing with the Offshore DBA team on a regular basis to discuss and resolve the Database related issues\n\nSystem administration on UNIX.\n\n\u200b\u00a0TECHNICAL SKILLS\n\nOperating Systems Sun Solaris 5.8/5.9/5.10, HP- UNIX, IBM AIX, Linux, Windows NT/95/2000, Windows 2000\n\nRDBMS Oracle Server 8i/9i/10g, Oracle 9i/10g RAC\n\nStorage Oracle 10g ASM, Veritas Net backup\n\nTools SQL*Plus, PL/SQL, SQL*Loader, SQL*Net/Net8, Quest \u2013 Toad, Oracle Enterprise Manager (OEM), Export/Import, Datapump, RMAN, UNIX Shell Scripts, Oracle Warehouse Builder 9.2, Business Objects 6.5\n\nNetwork Protocols TCP/IP, VOIP\n\nVerticals Banking, Finance & Health Care\n\nPROFESSIONAL EXPERIENCE\n\nKey career contributions as: Oracle DBA \u2013 BT Global Services, UK * Oracle DBA \u2013 ABN AMRO Bank, India * System Engineer \u2013 Trikon Electronics Pvt Ltd, India.\n\nBT Global Services, Leeds /London ,UK ( through Mastek UK Ltd ) March 2005 \u2013 July 2009\n\nOracle DBA\n\nThe BT Consulting and System Integrations is the Local Service Provider for the London cluster of NHS Connecting for Health (NPfIT and now CfH) and is responsible for helping the NHS deliver their new Care Records Service across the capital as the part world\u2019s largest investment in Healthcare. Service Management technical team is responsible for all services support functions related to Production/Development Environment.\n\nTechnology : Oracle Server 10g & 9i, 10g RAC, Sun Solaris 5.9/5.10, Windows NT/2000/XP, HP/EMC SAN, ASM, Vertias and Solaris Volume Managers, Veritas Netbackup, RMAN, Oracle Enterprise Manager OEM,Quest \u2013 Toad, Oracle Warehouse Builder 9.2, Business Objects 6.5, Database\nSize: 50GB to 2 TB\n\nJob Responsibilities:\n\nInstallation, Configuration and maintenance of Oracle 10g Real Application Cluster (RAC), Load balancing Failover.\n\nReal Application Clusters monitoring, tuning, load balanced using OEM (Oracle Enterprise Manager), Stats pack and V$dynamic views.\n\nCRS/ASM installation and new database creation for 10g Real Application Cluster (RAC).\n\nDesign and implementation of database backup strategy and performed full, incremental and Cumulative backups using RMAN. Troubleshooting with RMAN backup problem.\n\nMigrating a Non ASM Single instance Oracle 10g Database to 10g RAC Database configured on ASM.\n\nOptimization and fine-tuning the database by planning storage requirements, building indexes and altering storage clauses for tables and indexes. Monitor and Tuning of Database Performance by using various optimization techniques.\n\nPatched Oracle Database Server 9i and 10g for both Single Instance and multiple nodes of RAC Database using Opatch.\n\nProvide 24/7 monitoring of network and database operations to ensure top operating efficiency. Interacted with Oracle Support for resolving various critical database issues.\n\nInvolve in the Capacity Planning for databases based the future business growth requirements.\n\nProvide database administration on production, testing and development database servers. Creation of database objects like tables, indexes, stored procedures and views etc. Creation of users and roles and maintaining system security.\n\nCoordinating with Developers and users connecting to different databases, setting policy and procedures as they relate to database maintenance, Security, backup & Recovery etc.\n\nEstimate Storage requirement, Creation of Tablespaces and other Database Primary Objects.\n\nClone/Refresh of Production databases to Testing and training environments.\n\nWorked closely with application team members to perform SQL Tuning using Explain Plan, SQL Trace, Optimizer Hints, Statspack, AWR and TKPROF utility.\n\nAdminister an Oracle database and its users using Oracle Enterprise Manager.\n\nI have used Oracle 10g Enterprise Manager db console tools such as ADDM, AWR for diagnosing & monitoring events, jobs & performance related problems. Monitored all databases status including CPU, memory, I/O, space Management, block, and dead lock using OEM.\n\nResponsible for 24x7 on-call support.\n\nABN AMRO Bank, India (through Clover Technologies Pvt Ltd) August2004 \u2013 November 2004\n\nOracle DBA\n\nABN AMRO Bank is one of the largest Banks in India, with variety of applications & products in Banking Sector.\n\nTechnology : Oracle Server 9i & 8i, OEM (Oracle Enterprise Manager), SQL*Plus, PL/SQL, Sun Solaris\n5.8, Linux Red Hat 3 & 4.0. Database Size: 20GB to 1 TB.\n\nJob Responsibilities:\n\nSupported and assisted a team of DBA's in migration of databases from Oracle 8i to 9i R2. The role involved in installation, configuration & upgradation of oracle server software on Solaris and windows boxes.\n\nI have applied latest releases of the RDBMS patches from Oracle to the Production and test instances to resolve\nfew technical challenges & issues.\n\nSetup/configured oracle RMAN for database backup and recovery. Applied different recovery procedures for complete and incomplete recoveries depending on the type of failure by using export/import & o/s scripts like shell & korn scripts.\n\nTuned databases for memory tuning by adjusting Buffer cache size, log switches and reducing check pointing, increasing sort area sizes, shared pool area, prioritizing oracle processes and increasing SGA overall.\n\nAdvised developers using Explain plan, TKprof and identifying the Execution plan in tuning queries, using Indexes, partitioning, hints etc.\n\nInvolved in tuning Transaction intensive servers under OLTP situations (I/O bottlenecks, SGA, Pinning objects, Sort space, literal sql, Redo logs).\n\nPerformed daily alert log files, trace files check, and general data consistency & data integrity check. Checked the configuration and performance of the existing databases including data file allocation, index, fragmentation and the impact on system performance. Analyzed potential problems (response delay, locking, server down time, etc) and avoided it.\n\nSetup and supported for Oracle 9i/10g HA solutions including RAC, Standby servers, Data Guard.\n\nDeveloped or modified some Oracle backup and recovery scripts. Used Oracle backup utility RMAN to implement Oracle backup and performed a number of times of disaster recovery.\n\nCreated, maintained, and monitored the Standby Database.\n\nCloned the instances from production to Test, Development instance to test & simulate few technical challenges, coordinate with testing and development teams.\n\nI worked closely and established good relationships with developers, SA's for discussing infrastructure support, recommendations and implementation to resolve development & production issues.\n\nProvided 24x7 on call production support.\n\nTrikon Electronics Pvt. Ltd, India September 2001 \u2013 August 2004\n\nSystem Engineer\n\nTechnology : Oracle Server 8i & 9i, Linux, Sun Solaris, SQL plus, TCP/IP, VOIP, Database Size: 20GB to\n400 GB.\n\nJob Responsibilities:\n\nInstallation of Slackware Linux 8, Kernel Compilation.\n\nConfiguration of Routers and Switches and monitoring the network traffic via them.\n\nInstallation, Configuration and maintenance of Sendmail the mailing software on Linux.\n\nInstallation and Configuration of Apache and Samba Servers on Slackware Linux.\n\nMigrated all client site databases from Oracle versions 8i to 9i Release 2, to support the business requirement of\ndeploying the new web based product front end.\n\nClone/Refresh of Production databases to Testing environments.\n\nI was responsible for checking the backup logs to ensure backups were taken, monitoring the alert log and general database housekeeping.\n\nUsed oracle Enterprise Manager (OEM) for routine database monitoring.\n\nI implemented STATSPACK at all customer sites to provide base line activity and identify performance issues\nand became proficient with wait event analysis (SQL tracing and TKPROF).\n\nProvided first line IT helpdesk support for external customers.\n\nReference: Available upon Request.\nVisa Status: UK Tier1 Visa (General) for Highly Skilled Migrants\n\nValid till: 7th November 2011."
+    }, 
+    "linkedin": {
+        "honor-awards": [
+            {
+                "name": "", 
+                "desc": "BE Computer Engineering"
+            }
+        ], 
+        "publications": [], 
+        "courses": [], 
+        "headline": "IT Analyst at Tata Consultancy Services", 
+        "positions": [
+            {
+                "company": "Tata Consultancy Services", 
+                "summary": "As an IT Analyst, I have been given higher responsibilities and would be trained to take up a lower management role and would be expected to lead teams to successful project completions.", 
+                "location": "Mumbai)", 
+                "experience": {
+                    "end-date": "Present", 
+                    "start-date": "April 2015"
+                }, 
+                "title": "IT Analyst"
+            }, 
+            {
+                "company": "Tata Consultancy Services", 
+                "summary": "As a system engineer, I worked on various development and proof of concepts projects earning appreciation from peers and my clients. I successfully completed certifications as well.", 
+                "location": "Mumbai", 
+                "experience": {
+                    "end-date": "March 2015", 
+                    "start-date": "December 2012"
+                }, 
+                "title": "Systems Engineer"
+            }, 
+            {
+                "company": "Tata Consultancy Services", 
+                "location": ")", 
+                "experience": {
+                    "end-date": "December 2012", 
+                    "start-date": "December 2010"
+                }, 
+                "title": "Assistant System Engineer"
+            }
+        ], 
+        "industry": "Information Technology and Services", 
+        "summary": "Sudha is an adventurous person who is persistent in achieving results and doing what she is passionate about yet she is adaptable to changes.\n\nAs part of the current project, she is researching across various industries to find a viable business solution for industries like fleet telematics, retail, airlines, sports, utilities, gaming etc. She is prepared to learn something new and come out with something innovative and sellable. She is termed as a project specialist rather than a developer.\n\nBI has always been a passionate subject for Sudha and she has moved on from a Non-BI industry to a BI industry just so she can pursue her dream career in the field of BI. She not only got special training in certain BI tools but went on to clear certifications (MicroStrategy - CPD, CRD, CDD and MCD) and provided training to other associates across TCS. She has also worked in different BI projects.\n\nShe has worked in a variety of projects starting from sap basis to Microstrategy to Tibco Spotfire, to learning backend tools like HANA. Her career started off in Business Objects, just to be caught on by SAP Basis. Moving onto her dream career of BI, she was able to adapt to the various nuances that different BI tools demand and conceptualise and develop various tools across industries with finesse.", 
+        "languages": [
+            {
+                "proficiency": "Native or bilingual proficiency", 
+                "name": "English"
+            }, 
+            {
+                "proficiency": "Limited working proficiency", 
+                "name": "Tamil"
+            }, 
+            {
+                "proficiency": "Limited working proficiency", 
+                "name": "Marathi"
+            }, 
+            {
+                "proficiency": "Professional working proficiency", 
+                "name": "Hindi"
+            }
+        ], 
+        "skills": {
+            "backend_languages": [
+                "Java", 
+                "C"
+            ], 
+            "frontend_languages": [
+                " HTML", 
+                "CSS"
+            ]
+        }, 
+        "certifications": [
+            "TOGAF Certification"
+        ], 
+        "location": "Mumbai Area, India", 
+        "recommendations": [
+            {
+                "headline": "Founder CEO, at BigMyGig, Passionate Speaker and Visiting Faculty", 
+                "text": "Sudha is a very passionate and large hearted person. Give her a task and she'll ensure it's done as a true leader. Perfect at her work and a happy person to have in your team. I strongly recommend her for any team.", 
+                "date-relation": "May 18, 2015, Ramalingam worked directly with Sudha at Tata Consultancy Services", 
+                "name": "Ramalingam Subramanian"
+            }, 
+            {
+                "headline": "Secure Product Life Cycle Engagement Manager at PayPal", 
+                "text": "Sudha is a person with great enthusiasm and motivation and likes with good problem solving abilities. This combination along with her hard work will take her places.", 
+                "date-relation": "November 24, 2010, Arun advised Sudha at University of Mumbai", 
+                "name": "Arun Parthasarathy"
+            }, 
+            {
+                "headline": "Training & Placement Officer at SIES GST", 
+                "text": "Sudha is one of the best students I have known in my teaching profession. Very reliable, hard working and intelligent person.", 
+                "date-relation": "September 24, 2010, Seema taught Sudha at University of Mumbai", 
+                "name": "Seema Khan"
+            }
+        ], 
+        "picture-url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKdAAAAJGI0NTdmYzViLWRjOTctNDQxOC1iNzBhLTczNjRmNzU2NDYxNA.jpg", 
+        "educations": [
+            {
+                "activities": [], 
+                "major": "Computer Science Engineering", 
+                "degree": "B.E.", 
+                "education-date": {
+                    "end-date": "2010", 
+                    "start-date": "2006"
+                }, 
+                "text": "Activities and Societies: Training and Placement Cell", 
+                "school-name": "University of Mumbai"
+            }, 
+            {
+                "education-date": {}, 
+                "school-name": "Fr. Agnel Multipurpose School", 
+                "activities": []
+            }, 
+            {
+                "education-date": {}, 
+                "school-name": "Fr. Agnel Multipurpose School", 
+                "activities": []
+            }
+        ], 
+        "projects": [], 
+        "volunteer": {
+            "opportunities-looking-for": [], 
+            "organizations-supported": [], 
+            "causes": [
+                "Children", 
+                "Civil Rights and Social Action", 
+                "Education", 
+                "Health", 
+                "Poverty Alleviation"
+            ], 
+            "experience": []
+        }
+    }, 
+    "_attachments": {
+        "a1003": {
+            "stub": true, 
+            "length": 63488, 
+            "digest": "md5-qqmzeUxTAe55+ihMOTocXg==", 
+            "revpos": 10, 
+            "content_type": "application/msword"
+        }
+    }, 
+    "leadership": "neg", 
+    "shortlist": [], 
+    "contact": "8473827473", 
+    "status_comment": "", 
+    "personality": {
+        "text": "16+ years of experience in software engineering, development, architecture, development methodology / best practices, requirements analysis, data modeling, handling projects and ensuring delivery of projects within the time & cost parameters and developing web and enterprises applications.  Progressed through analytical and applications work to senior management position. Highly effective interpersonal, time management and communication skills. Currently working as architect in Element Fleet projects, developed in depth business and data knowhow of fleet and delivered complex programs. \r\n\r\nInstrumental in working on big data technologies like Datastax Enterprise, Cassandra, Spark, Filodb, Hive, Hadoop and Others.\r\nEnthusiastic in learning new technologies in Open source primarily around ingesting and analyzing data. \r\nWorking on Element projects using technologies like Cassandra, Spark, Filodb, Kafka, Talend and Others.\r\nDesigned and developed complex programs for GE fleet using dimensional data model and data computation routines in TeraData.Analyzed performance of applications to pinpoint frequently used inefficiency algorithms.\r\nExperiment with new technologies and routines to increase efficiency and reduce processing / development time.\r\n", 
+        "insights": {
+            "warnings": [
+                {
+                    "message": "There were 160 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+                    "warning_id": "WORD_COUNT_MESSAGE"
+                }
+            ], 
+            "tree": {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "category": "personality", 
+                                "percentage": 0.0210758586858262, 
+                                "children": [
+                                    {
+                                        "category": "personality", 
+                                        "name": "Openness", 
+                                        "sampling_error": 0.065018322, 
+                                        "id": "Openness", 
+                                        "percentage": 0.824292842118722, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.929754199598397, 
+                                                "id": "Adventurousness", 
+                                                "sampling_error": 0.054274118, 
+                                                "name": "Adventurousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.425351006724374, 
+                                                "id": "Artistic interests", 
+                                                "sampling_error": 0.110245448, 
+                                                "name": "Artistic interests"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0424716687323197, 
+                                                "id": "Emotionality", 
+                                                "sampling_error": 0.050867578, 
+                                                "name": "Emotionality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.82878512736756, 
+                                                "id": "Imagination", 
+                                                "sampling_error": 0.068470358, 
+                                                "name": "Imagination"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.930022322032496, 
+                                                "id": "Intellect", 
+                                                "sampling_error": 0.060161122, 
+                                                "name": "Intellect"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.992999278215952, 
+                                                "id": "Liberalism", 
+                                                "sampling_error": 0.088193266, 
+                                                "name": "Authority-challenging"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Conscientiousness", 
+                                        "sampling_error": 0.081213674, 
+                                        "id": "Conscientiousness", 
+                                        "percentage": 0.240268009360691, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.834762792618024, 
+                                                "id": "Achievement striving", 
+                                                "sampling_error": 0.104419356, 
+                                                "name": "Achievement striving"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.658748173129982, 
+                                                "id": "Cautiousness", 
+                                                "sampling_error": 0.096620968, 
+                                                "name": "Cautiousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.206119898773391, 
+                                                "id": "Dutifulness", 
+                                                "sampling_error": 0.06559174, 
+                                                "name": "Dutifulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.090533591273888, 
+                                                "id": "Orderliness", 
+                                                "sampling_error": 0.074297176, 
+                                                "name": "Orderliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.689323990746143, 
+                                                "id": "Self-discipline", 
+                                                "sampling_error": 0.049889512, 
+                                                "name": "Self-discipline"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.824309354486847, 
+                                                "id": "Self-efficacy", 
+                                                "sampling_error": 0.097557202, 
+                                                "name": "Self-efficacy"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Extraversion", 
+                                        "sampling_error": 0.060791602, 
+                                        "id": "Extraversion", 
+                                        "percentage": 0.265349027993781, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.974624920076549, 
+                                                "id": "Activity level", 
+                                                "sampling_error": 0.082861728, 
+                                                "name": "Activity level"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.905384052084132, 
+                                                "id": "Assertiveness", 
+                                                "sampling_error": 0.088205634, 
+                                                "name": "Assertiveness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.217435664431046, 
+                                                "id": "Cheerfulness", 
+                                                "sampling_error": 0.110878106, 
+                                                "name": "Cheerfulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.67502905912871, 
+                                                "id": "Excitement-seeking", 
+                                                "sampling_error": 0.084621356, 
+                                                "name": "Excitement-seeking"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0602204162515855, 
+                                                "id": "Friendliness", 
+                                                "sampling_error": 0.079690972, 
+                                                "name": "Outgoing"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0787603121512078, 
+                                                "id": "Gregariousness", 
+                                                "sampling_error": 0.060988592, 
+                                                "name": "Gregariousness"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Agreeableness", 
+                                        "sampling_error": 0.10167125, 
+                                        "id": "Agreeableness", 
+                                        "percentage": 0.0210758586858262, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.202320594913293, 
+                                                "id": "Altruism", 
+                                                "sampling_error": 0.075180898, 
+                                                "name": "Altruism"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.577043880077443, 
+                                                "id": "Cooperation", 
+                                                "sampling_error": 0.083825192, 
+                                                "name": "Cooperation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0768035418441912, 
+                                                "id": "Modesty", 
+                                                "sampling_error": 0.060041252, 
+                                                "name": "Modesty"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0508391343848218, 
+                                                "id": "Morality", 
+                                                "sampling_error": 0.06679923, 
+                                                "name": "Uncompromising"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.41369151303532, 
+                                                "id": "Sympathy", 
+                                                "sampling_error": 0.102928338, 
+                                                "name": "Sympathy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.994904037849442, 
+                                                "id": "Trust", 
+                                                "sampling_error": 0.061086828, 
+                                                "name": "Trust"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Emotional range", 
+                                        "sampling_error": 0.09620738, 
+                                        "id": "Neuroticism", 
+                                        "percentage": 0.387339784884275, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.311582548027847, 
+                                                "id": "Anger", 
+                                                "sampling_error": 0.099056494, 
+                                                "name": "Fiery"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.61933636254039, 
+                                                "id": "Anxiety", 
+                                                "sampling_error": 0.058792046, 
+                                                "name": "Prone to worry"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.858059274878954, 
+                                                "id": "Depression", 
+                                                "sampling_error": 0.063051442, 
+                                                "name": "Melancholy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0311031623256844, 
+                                                "id": "Immoderation", 
+                                                "sampling_error": 0.0567022, 
+                                                "name": "Immoderation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.833315605538499, 
+                                                "id": "Self-consciousness", 
+                                                "sampling_error": 0.060916174, 
+                                                "name": "Self-consciousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.538718473808666, 
+                                                "id": "Vulnerability", 
+                                                "sampling_error": 0.09058987, 
+                                                "name": "Susceptible to stress"
+                                            }
+                                        ]
+                                    }
+                                ], 
+                                "id": "Agreeableness_parent", 
+                                "name": "Agreeableness"
+                            }
+                        ], 
+                        "id": "personality", 
+                        "name": "Big 5"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "category": "needs", 
+                                "percentage": 0.876974843150714, 
+                                "children": [
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.316403903247409, 
+                                        "id": "Challenge", 
+                                        "sampling_error": 0.08750184, 
+                                        "name": "Challenge"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.426615020244011, 
+                                        "id": "Closeness", 
+                                        "sampling_error": 0.086340404, 
+                                        "name": "Closeness"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.876974843150714, 
+                                        "id": "Curiosity", 
+                                        "sampling_error": 0.124812486, 
+                                        "name": "Curiosity"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.492063332965898, 
+                                        "id": "Excitement", 
+                                        "sampling_error": 0.114063232, 
+                                        "name": "Excitement"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.246970359522961, 
+                                        "id": "Harmony", 
+                                        "sampling_error": 0.11431853, 
+                                        "name": "Harmony"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.279635360854085, 
+                                        "id": "Ideal", 
+                                        "sampling_error": 0.103631098, 
+                                        "name": "Ideal"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.66784289370493, 
+                                        "id": "Liberty", 
+                                        "sampling_error": 0.150683346, 
+                                        "name": "Liberty"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.728805340556108, 
+                                        "id": "Love", 
+                                        "sampling_error": 0.105177778, 
+                                        "name": "Love"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.809670238499653, 
+                                        "id": "Practicality", 
+                                        "sampling_error": 0.091495996, 
+                                        "name": "Practicality"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.410682632271904, 
+                                        "id": "Self-expression", 
+                                        "sampling_error": 0.085048108, 
+                                        "name": "Self-expression"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.723062971675977, 
+                                        "id": "Stability", 
+                                        "sampling_error": 0.111200542, 
+                                        "name": "Stability"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.776290735850014, 
+                                        "id": "Structure", 
+                                        "sampling_error": 0.083593126, 
+                                        "name": "Structure"
+                                    }
+                                ], 
+                                "id": "Curiosity_parent", 
+                                "name": "Curiosity"
+                            }
+                        ], 
+                        "id": "needs", 
+                        "name": "Needs"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "category": "values", 
+                                "percentage": 0.0460255523914336, 
+                                "children": [
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.0460255523914336, 
+                                        "id": "Conservation", 
+                                        "sampling_error": 0.071036696, 
+                                        "name": "Conservation"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.592811908882195, 
+                                        "id": "Openness to change", 
+                                        "sampling_error": 0.06836279, 
+                                        "name": "Openness to change"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.0555557852962267, 
+                                        "id": "Hedonism", 
+                                        "sampling_error": 0.142575708, 
+                                        "name": "Hedonism"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.261089501650061, 
+                                        "id": "Self-enhancement", 
+                                        "sampling_error": 0.108335182, 
+                                        "name": "Self-enhancement"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.50665668812662, 
+                                        "id": "Self-transcendence", 
+                                        "sampling_error": 0.08632111, 
+                                        "name": "Self-transcendence"
+                                    }
+                                ], 
+                                "id": "Conservation_parent", 
+                                "name": "Conservation"
+                            }
+                        ], 
+                        "id": "values", 
+                        "name": "Values"
+                    }
+                ], 
+                "id": "r", 
+                "name": "root"
+            }, 
+            "word_count": 160, 
+            "processed_lang": "en", 
+            "source": "*UNKNOWN*", 
+            "word_count_message": "There were 160 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+            "id": "*UNKNOWN*"
+        }
+    }, 
+    "_id": "a1003", 
+    "status_date": "2017-04-07", 
+    "email": "hemant.b.aher@gmail.com", 
+    "attachment_timestamp": "2017-01-12 19:18:25.511000", 
+    "name": "Neil"
+}

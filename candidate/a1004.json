@@ -1,0 +1,815 @@
+{
+    "username": "ajithashenoy", 
+    "password": "ajithashenoy", 
+    "shortlist": [
+        {
+            "to": "2017-06-27", 
+            "from": "2017-06-20"
+        }
+    ], 
+    "name": "Ajitha Shenoy", 
+    "shortlist_status": "You have been shortlisted by the employer. We will notify you soon regarding interview date.", 
+    "communication": "neg", 
+    "_rev": "30-5e9a55934a2eb4a84689ff2d37453de8", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                ".NET", 
+                "C", 
+                "C++", 
+                "JAVA", 
+                "VB.Net"
+            ], 
+            "frontend_languages": []
+        }, 
+        "text": "no title\n\nRESUME\n\nAJITHA SHENOY .K.B, PhD student (Computer Science), Room No. CS 106 Department of Computer Science, IIT, KANPUR,\n\nUP, INDIA. E-mail : ajithshenoy2003@yahoo.com or ajith@cse.iitk.ac.in or ajith@iitk.ac.in Mobile : 91- 9305326504, 91 - 9839791934 (R)\n\nCareer Objective: To pursue a challenging career and be part of a progressive organization that gives scope to enhance my knowledge, skills and to reach the pinnacle in the computing and research field with sheer determination, dedication and hard work.\n\nWork Experience:\n\n\uf06c\n\nPursuing research in the Department of Computer Science and Engineering at IIT, Kanpur.\n\n\uf0b7 Worked as a Lecturer in the Department of Information & Communication Technology at Manipal Institute of Technology, MANIPAL from 04-09-2003 to 19-12-2007 ( 4 years 3 months).\n\n\uf0b7 1.5 years of work experience as a Lecturer in the Department of Mathematics at Government College, Kasaragod - 671 121.\n\nProjects & Work Done:\n\n1. M.Tech Project: \"TCP SWITCHING\" Technology Used: C, Linux Responsibility: My responsibilities were to code and to document. Project Description: Using circuit switching technology in packet switched network to speed up the transmission process. Built a Linux kernel module for easy integration of the solution to the enterprise environment.\n\n2. Worked as a team member in PHILIPS BOP project (TELE MEDICINE project in rural area).\n\nhttp://www.grassrootinnovations.org/BoP_engagements/ajitha_shenoy.htm Responsibility: Conducted survey in rural areas and primary health care centers to understand the feasibility and demand for the TELE MEDICINE project. Based on the statistics draw graphs and analyze the survey results. Also they involved me in Idea Evaluation to check whether the Ideas given by the people are new and patentable.\n\nGot Appreciation Certificate from Philips, India\n\n3. Guided several B.E, MCA projects. 4. Taken Online VSAT classes for Sikkim Manipal University. 5. Taken Classes for BE (IT), MCA and M.Tech (Software Engineering) at Manipal Institute of Technology (MIT), Manipal, Karnataka State.\n\n6. Taken Classes for B.Sc (Mathematics), M.Sc(Mathematics) at Govt. College, Kasaragod, Kerala State.\n\nAcademic Profile:\n\nPursuing P.hD in the Department of Computer Science and Engineering, IIT, Kanpur. Completed 1.5 years with CPI of 9 out of 10\n\nGATE - 2000 Qualified (All India 156th Rank)\n\nExamination Passed University/Board Year % Marks Obtained Class\n\nB.Sc (Mathematics) Calicut University 1997 89.8 First with Distinction (First in the Class)\n\nM.Sc (Mathematics) Kannur University 1999 76.27 First with Distinction (First in the Class)\n\nM.Tech (Computer and Information Science) Cochin University 2003 CGPA 8.11 out 10 First with Distinction\n\nTechnical Skills:\n\nProgramming languages : C, C++, MFC, VC++, VB.Net, JAVA Back end : ORACLE 9i\n\nOperating System : Windows, Linux Tools : VMware\n\nField of interest : Algorithms, Graph Algorithms, Randomized Algorithms, Bio-informatics, Data Structures, Object Oriented Technology, Computational Geometry, and Mathematics.\n\nSubject Taught :\n\nDesign and Analysis of Algorithm, Object Oriented Programming Using C++, Visual Programming (VC++), System Simulation and Modeling, Multimedia Communication, Advanced Computer Networks, Mathematics.\n\nExtra Co curricular Activities :\n\n1. Attended 19th Jyvaskyla summer school on Evolutionary Algorithms conducted by University of Jyvaskyla, Finland (from 17-21st August 2009 ) 2. Attended two days workshop on \"Server Virtualization Technology\" Conducted by Computer Science Department MIT, Manipal. Lectures and hands on experience class taken by Software Engineers from Vmware.\n\n3. Attended training in Microsoft .NET organized by Manipal Universal learning & Department of Computer Science Engineering, MIT, Manipal. Training given by Indicom software & Services.\n\n4. Attended workshops conducted by Dept. of Bio Medical Engg and Dept. of Information and communication Technology, Manipal Institute of Technology, Manipal.\n\n5. Finance coordinator for International Conference conducted by Dept. of Information and Communication Technology, Manipal Institute of Technology, Manipal.\n\n6. Department representative for MAHE website development committee.\n\nPersonal Profile:\n\nName: AJITHA SHENOY .K.B Gender: Male\n\nDate of birth: 28-05-1977 Marital status: Single Nationality: Indian Father's Name: Late. Sri. K.B. Narayana Shenoy Linguistic Ability: English, Hindi, Kannada, Malayalam, Konkani, Tulu Passport Number: F7190229\n\nPresent Address: B5, SBRA Indian Institute of Technology, KANPUR - 208016.\n\nPersonal Strength: Leadership skills, Self-confidence, Optimism and Hard working.\n\nDeclaration: I hereby declare that all the details furnished above are true to the best of my knowledge and belief.\n\nAJITHA SHENOY .K.B", 
+        "location": "India", 
+        "experience": 1.5
+    }, 
+    "linkedin": {
+        "honor-awards": [], 
+        "skills": [
+            {
+                "endorsements": "11", 
+                "name": "Linux"
+            }, 
+            {
+                "endorsements": "11", 
+                "name": "Embedded Systems"
+            }, 
+            {
+                "endorsements": "9", 
+                "name": "Embedded C"
+            }, 
+            {
+                "endorsements": "5", 
+                "name": "IAR Embedded Workbench"
+            }, 
+            {
+                "endorsements": "5", 
+                "name": "Assembly Language"
+            }, 
+            {
+                "endorsements": "21", 
+                "name": "Matlab"
+            }, 
+            {
+                "endorsements": "5", 
+                "name": "MPLAB"
+            }, 
+            {
+                "endorsements": "1", 
+                "name": "Digital Signal..."
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "Simulink"
+            }, 
+            {
+                "endorsements": "24", 
+                "name": "C"
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "Ubuntu"
+            }, 
+            {
+                "endorsements": "9", 
+                "name": "Java"
+            }, 
+            {
+                "endorsements": "8", 
+                "name": "Software Development"
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "Atmel AVR"
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "CodeBlocks"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "Keil"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "AutoCAD"
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "Eclipse"
+            }, 
+            {
+                "endorsements": "1", 
+                "name": "Proteus"
+            }, 
+            {
+                "endorsements": "1", 
+                "name": "MultiSIM"
+            }, 
+            {
+                "endorsements": "", 
+                "name": "XML"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "HTML"
+            }, 
+            {
+                "endorsements": "4", 
+                "name": "Microsoft Office"
+            }, 
+            {
+                "endorsements": "8", 
+                "name": "Programming"
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "Windows"
+            }, 
+            {
+                "endorsements": "3", 
+                "name": "Microsoft Word"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "Teamwork"
+            }, 
+            {
+                "endorsements": "1", 
+                "name": "Microsoft Excel"
+            }, 
+            {
+                "endorsements": "1", 
+                "name": "PowerPoint"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "Operating Systems"
+            }, 
+            {
+                "endorsements": "", 
+                "name": "Device Drivers"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "Unix"
+            }, 
+            {
+                "endorsements": "2", 
+                "name": "Debugging"
+            }
+        ], 
+        "positions": [
+            {
+                "company": "Limelight Networks", 
+                "summary": "Worked on FreeBSD open source project. Assisted in maintaining FreeBSD Device Drivers: Intel (R) PCI Express Gigabit Ethernet adapter driver (igb(4)) and Intel (R) PRO/1000 Gigabit Ethernet adapter driver (em(4)).\nDeveloped multiqueue functionality for em(4). Reduced out-of-order transmissions occurring due frequent context switches. Measured performance with and without multiqueue functionality using NetPerf and iperf3, and compared throughput with non-multiqueue performance. Achieved throughput improvement after adding multiqueueing to em(4).\nProvided reviews for code to offload checksum computation and to avoid initialization when adapter status is down.\nSubmitted all patches for review on www.freebsd.org/reviews/\n---------------------------------------------------------------------------------------------------------------------------\nGained experience on FreeBSD, FreeBSD kernel modules, FreeBSD device drivers, open source project development.\nTools: git, svn, backtrace, phabricator, IRC, tmux, JIRA, scp, puTTY, Netperf, iperf3", 
+                "location": "Tempe, AZ)", 
+                "experience": {
+                    "end-date": "August 2016", 
+                    "start-date": "May 2016"
+                }, 
+                "title": "Systems Software Engineer Intern Core R&D"
+            }, 
+            {
+                "company": "Larsen & Toubro", 
+                "summary": "I worked in a team of four students to develop a wireless (Bluetooth based) tool to perform control and monitoring of an electrical drive.\n- MSP430F5325 used as a controlling and processing unit\n-Bluetooth module WT-11A used to establish Bluetooth link\n-Android application developed to provide a user interface", 
+                "location": "Mumbai Area, India)", 
+                "experience": {
+                    "end-date": "May 2014", 
+                    "start-date": "July 2013"
+                }, 
+                "title": "Project Intern"
+            }, 
+            {
+                "company": "ThinkLABS Technosolutions Pvt. Ltd.", 
+                "summary": "Studied embedded systems design upon Atmel ATmega 64. Studied I2C, architecture and programmed a scientific calculator on serial window, earning an A+ grade", 
+                "location": "Mumbai, Maharashtra, India)", 
+                "experience": {
+                    "end-date": "July 2013", 
+                    "start-date": "June 2013"
+                }, 
+                "title": "Intern"
+            }
+        ], 
+        "industry": "Computer Software", 
+        "recommendations": [], 
+        "summary": "I am pursuing a Graduate degree (Master of Science) in Computer Engineering (Computer Systems) at Arizona State University, Tempe campus. I have worked at Limelight Networks Inc., Tempe, Arizona as an intern on the Systems Software Engineering team, garnering skills and experience in open source contributions on the FreeBSD operating system.\nSkills:\nC, C++, Multithreading, Scripting, Debugging, Bash, Unix, FreeBSD, Kernel Programming\nInterests:\nDevice driver development, Filesystems, Distributed, multiprocessor systems, Embedded systems, Computer Architecture", 
+        "languages": [
+            {
+                "proficiency": "Full professional proficiency", 
+                "name": "English"
+            }, 
+            {
+                "proficiency": "Professional working proficiency", 
+                "name": "Marathi"
+            }, 
+            {
+                "proficiency": "Native or bilingual proficiency", 
+                "name": "Hindi"
+            }
+        ], 
+        "courses": [
+            "Computer Systems 1 (CEN 501)", 
+            "Computer Systems 2 (CEN 502)", 
+            "Operating Systems (CSE598/430(M*))", 
+            "Computer Architecture (CSE598/420(M*))", 
+            "Wireless Networks (EEE559)", 
+            "Distributed Multiprocessor Operating Systems (CSE 531(D*))", 
+            "Advanced Operating Systems (CSE 536(D*))", 
+            "Information Assurance and Security (CSE 543)", 
+            "Communication Networks (EEE 591)", 
+            "Embedded Operating Systems Internals (CSE 530)", 
+            "Microprocessors & Microcontrollers 1 & 2", 
+            "Signals and Systems", 
+            "Microelectronics", 
+            "Principles of Control Systems", 
+            "Image Processing"
+        ], 
+        "volunteer": {
+            "opportunities-looking-for": [], 
+            "organizations-supported": [], 
+            "experience": [], 
+            "causes": [
+                "Animal Welfare", 
+                "Arts and Culture", 
+                "Children", 
+                "Education", 
+                "Environment", 
+                "Poverty Alleviation", 
+                "Science and Technology", 
+                "Social Services"
+            ]
+        }, 
+        "certifications": [], 
+        "location": "Tempe, Arizona", 
+        "headline": "Systems Software Engineer Intern at Limelight Networks | Graduate Student at Arizona State University", 
+        "picture-url": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATaAAAAJDgyYTI3NjUzLTg1ODgtNGNjNS1iNjM2LWY1YmQ0OTE5NTk4YQ.jpg", 
+        "educations": [
+            {
+                "activities": [], 
+                "major": "Computer Engineering (Computer Systems)", 
+                "degree": "Master of Science (M.S.)", 
+                "education-date": {
+                    "end-date": "2016", 
+                    "start-date": "2014"
+                }, 
+                "grade": "3.67/4", 
+                "text": "Seeking to specialize in the study of embedded systems and operating systems.", 
+                "school-name": "Arizona State University"
+            }, 
+            {
+                "activities": [], 
+                "major": "Electronics and Telecommunication Engineering", 
+                "degree": "Bachelor of Engineering (B.E.)", 
+                "education-date": {
+                    "end-date": "2014", 
+                    "start-date": "2010"
+                }, 
+                "grade": "3.68", 
+                "text": "Activities and Societies: -Vice Chairperson, IEEE Students' Chapter -Student Member: Institute of Electronics and Telecommunication Engineers -Student Member: Electronics and Telecommunication Students' Association -Active participation in Solo, Duet singing, Band competitions and various technical and cultural workshops.", 
+                "school-name": "University of Mumbai"
+            }, 
+            {
+                "activities": [
+                    "-Merit Certificate and Prize in Mathematics Pradnya State Level Competition", 
+                    "stood in top 50 out of over 50", 
+                    "000 students at three-tier mathematics exam 2005 -Merit Certificates in Maharashtra Talent Search Exams -Winner of First Prize in All India English Essay Writing Contest 2005 -Trained in Hindustani Classical Singing for around 10 years", 
+                    "active participant and winner of many prestigious inter-school and district competitions of Classical Music"
+                ], 
+                "school-name": "Vasant Vihar High School & Jr College", 
+                "text": "Completed SSC with Rank 2 in school and 92.15% aggregate", 
+                "degree": "Secondary School Certificat", 
+                "education-date": {
+                    "end-date": "2007", 
+                    "start-date": "1995"
+                }
+            }
+        ], 
+        "projects": [
+            {
+                "date": {
+                    "end-date": "April 2016", 
+                    "start-date": "March 2016"
+                }, 
+                "title": "Journal Filesystem (Advanced Operating Systems)", 
+                "desc": "Implemented an atomic Journaling Filesystem to perform Read, Write, Commit and Abort operations as entered by a user, with internal workings invisible to the user. Filesystem was tested under the following conditions:\n1. Error-free, non-multithreaded environment\n2. Error-prone, non-multithreaded environment\n3. Error-free, multithreaded environment\n4. Error-prone, multithreaded environment.\n...more"
+            }, 
+            {
+                "date": {
+                    "start-date": "November 2015"
+                }, 
+                "title": "Cache Block Replacement Algorithms", 
+                "desc": "Developed programs to implement Least Recently Used (LRU) and Adaptive Replacement Cache (ARC) algorithms to be tested against varying load sizes and varying cache block sizes. Drew up comparison tables between hit rates of both algorithms, achieved results within 0.01% accuracy."
+            }, 
+            {
+                "date": {
+                    "end-date": "November 2015", 
+                    "start-date": "August 2015"
+                }, 
+                "title": "Client-Server Message Passing System", 
+                "desc": "Implemented semaphores, non-preemptive scheduler queues and user-space threads to access a shared resource without using standard libraries.\nImplemented ports as an array of shared memory blocks and tested the message passing application with mutex on ports (Phase 1) and mutex on threads (Phase 2)"
+            }, 
+            {
+                "date": {
+                    "start-date": "April 2015"
+                }, 
+                "title": "Cache Replacement Policy Optimization", 
+                "desc": "Designed a cache replacement policy to handle scanning as well as thrashing by implementing a Dynamic Re-Reference Interval Prediction (DRRIP) replacement algorithm."
+            }, 
+            {
+                "date": {
+                    "start-date": "July 2013"
+                }, 
+                "title": "Bluetooth based Control and Monitoring of an Electrical Drive", 
+                "desc": "I worked in a team of four students to develop a wireless (Bluetooth based) tool to perform control and monitoring of an electrical drive.\n- MSP430F5325 used as a controlling and processing unit\n-Bluetooth module WT-11A used to establish Bluetooth link\n-Android application developed to provide a user interface"
+            }, 
+            {
+                "date": {
+                    "start-date": "July 2013"
+                }, 
+                "title": "Bluetooth based Monitoring and Controlling of Drive Parameters", 
+                "desc": "?Bluetooth based Monitoring and Controlling of Drive Parameters? at Larsen & Toubro, India (July ?13 ? May ?14)\n? Converted an existing wired connection into a wireless (Bluetooth) connection to control a Brush-Less DC motor parameters using microcontroller MSP430\n? Developed Android based application to control the parameters like speed and rotation"
+            }, 
+            {
+                "date": {
+                    "start-date": "June 2013"
+                }, 
+                "title": "Scientific Calculator on Serial Window", 
+                "desc": "-Development of a scientific calculator for calculation of elementary arithmetic, trigonometric, logarithmic and exponential expressions.\n-Use of Atmel's ATmega64 and AVR studio"
+            }, 
+            {
+                "date": {
+                    "start-date": "January 2012"
+                }, 
+                "title": "Laser Communication System", 
+                "desc": "-Amplitude modulation of LASER light to transfer electrical sound signals to a speaker.\n-Use of LM386 Audio Amplifier IC"
+            }
+        ], 
+        "publications": [
+            {
+                "date": "November 30, 2013", 
+                "journal": "International Journal Of Engineering Sciences & Research Technology (IJESRT) Volume 2 Issue 11", 
+                "title": "Wireless Automation of an Electrical Drive using Bluetooth"
+            }
+        ]
+    }, 
+    "_attachments": {
+        "a1004": {
+            "stub": true, 
+            "length": 20689, 
+            "digest": "md5-MSuavxaLt24w6LYnLrmfgQ==", 
+            "revpos": 14, 
+            "content_type": "application/pdf"
+        }
+    }, 
+    "contact": "8374726174", 
+    "status_comment": "", 
+    "leadership": "neg", 
+    "linkedin_id": "rutabhave", 
+    "management": "neg", 
+    "_id": "a1004", 
+    "status_date": "2017-04-07", 
+    "email": "ajith@cse.iitk.ac.in", 
+    "attachment_timestamp": "2017-01-12 19:29:11.581000", 
+    "personality": {
+        "text": "Hi, my name is Shashi Narendra Dharra. As you all must know, I'm a silly person and always do whatever I wish. Basically I try following my heart which definitely offends many around me. But that doesn\u2019t make me a bad person because I\u2019m equally approachable to everyone because I'm honest & friendly too. I would not like commenting on my future goals or any of that stuff because I myself don't know what I want and what I can wish for. It\u2019s just that I want to be that successful that whatever I wish for is fulfilled (At least the good stuffs). ", 
+        "insights": {
+            "warnings": [
+                {
+                    "message": "There were 105 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+                    "warning_id": "WORD_COUNT_MESSAGE"
+                }
+            ], 
+            "tree": {
+                "id": "r", 
+                "name": "root", 
+                "children": [
+                    {
+                        "id": "personality", 
+                        "name": "Big 5", 
+                        "children": [
+                            {
+                                "category": "personality", 
+                                "percentage": 0.010261872290380059, 
+                                "id": "Extraversion_parent", 
+                                "name": "Extraversion", 
+                                "children": [
+                                    {
+                                        "category": "personality", 
+                                        "name": "Openness", 
+                                        "sampling_error": 0.06588907100000001, 
+                                        "id": "Openness", 
+                                        "percentage": 0.9272159937746591, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.4848608682430377, 
+                                                "name": "Adventurousness", 
+                                                "sampling_error": 0.054989843999999996, 
+                                                "id": "Adventurousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9704523196970223, 
+                                                "name": "Artistic interests", 
+                                                "sampling_error": 0.111235514, 
+                                                "id": "Artistic interests"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9340036457068532, 
+                                                "name": "Emotionality", 
+                                                "sampling_error": 0.0517042765, 
+                                                "id": "Emotionality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.6810452279538223, 
+                                                "name": "Imagination", 
+                                                "sampling_error": 0.069268199, 
+                                                "id": "Imagination"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.8972645745608036, 
+                                                "name": "Intellect", 
+                                                "sampling_error": 0.0609701885, 
+                                                "id": "Intellect"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9321767401246667, 
+                                                "name": "Authority-challenging", 
+                                                "sampling_error": 0.088972968, 
+                                                "id": "Liberalism"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Conscientiousness", 
+                                        "sampling_error": 0.0823278145, 
+                                        "id": "Conscientiousness", 
+                                        "percentage": 0.07678268014822442, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.24894487832317092, 
+                                                "name": "Achievement striving", 
+                                                "sampling_error": 0.10550826799999999, 
+                                                "id": "Achievement striving"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.5606109345069131, 
+                                                "name": "Cautiousness", 
+                                                "sampling_error": 0.0975228965, 
+                                                "id": "Cautiousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.6789916980799902, 
+                                                "name": "Dutifulness", 
+                                                "sampling_error": 0.06704819499999999, 
+                                                "id": "Dutifulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0011712256630065365, 
+                                                "name": "Orderliness", 
+                                                "sampling_error": 0.0750726155, 
+                                                "id": "Orderliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.01074300657513394, 
+                                                "name": "Self-discipline", 
+                                                "sampling_error": 0.050730836, 
+                                                "id": "Self-discipline"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.03975752440291486, 
+                                                "name": "Self-efficacy", 
+                                                "sampling_error": 0.098440766, 
+                                                "id": "Self-efficacy"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Extraversion", 
+                                        "sampling_error": 0.0617032435, 
+                                        "id": "Extraversion", 
+                                        "percentage": 0.010261872290380059, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.11971984789786627, 
+                                                "name": "Activity level", 
+                                                "sampling_error": 0.083701094, 
+                                                "id": "Activity level"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.081125420553809, 
+                                                "name": "Assertiveness", 
+                                                "sampling_error": 0.0891095645, 
+                                                "id": "Assertiveness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.20734969408030257, 
+                                                "name": "Cheerfulness", 
+                                                "sampling_error": 0.1118359805, 
+                                                "id": "Cheerfulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.24752846556657676, 
+                                                "name": "Excitement-seeking", 
+                                                "sampling_error": 0.085359643, 
+                                                "id": "Excitement-seeking"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0031887764929517393, 
+                                                "name": "Outgoing", 
+                                                "sampling_error": 0.08047322600000001, 
+                                                "id": "Friendliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0012187165233417119, 
+                                                "name": "Gregariousness", 
+                                                "sampling_error": 0.0618569485, 
+                                                "id": "Gregariousness"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Agreeableness", 
+                                        "sampling_error": 0.10249074999999999, 
+                                        "id": "Agreeableness", 
+                                        "percentage": 0.7169328592624751, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.8773363358708699, 
+                                                "name": "Altruism", 
+                                                "sampling_error": 0.0760081365, 
+                                                "id": "Altruism"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.6850122843721689, 
+                                                "name": "Cooperation", 
+                                                "sampling_error": 0.08453184849999999, 
+                                                "id": "Cooperation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.957491490401928, 
+                                                "name": "Modesty", 
+                                                "sampling_error": 0.0608691285, 
+                                                "id": "Modesty"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.8396518072940207, 
+                                                "name": "Uncompromising", 
+                                                "sampling_error": 0.067549265, 
+                                                "id": "Morality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.8836573837258854, 
+                                                "name": "Sympathy", 
+                                                "sampling_error": 0.10384030400000001, 
+                                                "id": "Sympathy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.13866744116300933, 
+                                                "name": "Trust", 
+                                                "sampling_error": 0.062412229, 
+                                                "id": "Trust"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Emotional range", 
+                                        "sampling_error": 0.09716264749999999, 
+                                        "id": "Neuroticism", 
+                                        "percentage": 0.07577315838648063, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.41145278912038935, 
+                                                "name": "Fiery", 
+                                                "sampling_error": 0.09996300949999999, 
+                                                "id": "Anger"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9156487797031848, 
+                                                "name": "Prone to worry", 
+                                                "sampling_error": 0.059625098, 
+                                                "id": "Anxiety"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9873684547326063, 
+                                                "name": "Melancholy", 
+                                                "sampling_error": 0.064002931, 
+                                                "id": "Depression"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.43948280203876855, 
+                                                "name": "Immoderation", 
+                                                "sampling_error": 0.057749015, 
+                                                "id": "Immoderation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9956152444219823, 
+                                                "name": "Self-consciousness", 
+                                                "sampling_error": 0.0617220945, 
+                                                "id": "Self-consciousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9926401952795152, 
+                                                "name": "Susceptible to stress", 
+                                                "sampling_error": 0.0914601075, 
+                                                "id": "Vulnerability"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "needs", 
+                        "name": "Needs", 
+                        "children": [
+                            {
+                                "category": "needs", 
+                                "percentage": 0.9806551317899515, 
+                                "id": "Curiosity_parent", 
+                                "name": "Curiosity", 
+                                "children": [
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.1606753991757226, 
+                                        "name": "Challenge", 
+                                        "sampling_error": 0.08836682500000001, 
+                                        "id": "Challenge"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.689562756607618, 
+                                        "name": "Closeness", 
+                                        "sampling_error": 0.08714008200000001, 
+                                        "id": "Closeness"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.9806551317899515, 
+                                        "name": "Curiosity", 
+                                        "sampling_error": 0.125698118, 
+                                        "id": "Curiosity"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.24156753582982426, 
+                                        "name": "Excitement", 
+                                        "sampling_error": 0.115070766, 
+                                        "id": "Excitement"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.58874486137197, 
+                                        "name": "Harmony", 
+                                        "sampling_error": 0.1154256525, 
+                                        "id": "Harmony"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.8323086037411047, 
+                                        "name": "Ideal", 
+                                        "sampling_error": 0.10457666900000001, 
+                                        "id": "Ideal"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.42966484478145484, 
+                                        "name": "Liberty", 
+                                        "sampling_error": 0.151667868, 
+                                        "id": "Liberty"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.40265493813578623, 
+                                        "name": "Love", 
+                                        "sampling_error": 0.106153929, 
+                                        "id": "Love"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.032603782268925574, 
+                                        "name": "Practicality", 
+                                        "sampling_error": 0.0925516055, 
+                                        "id": "Practicality"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.8041995311166392, 
+                                        "name": "Self-expression", 
+                                        "sampling_error": 0.0858513665, 
+                                        "id": "Self-expression"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.27033661280921073, 
+                                        "name": "Stability", 
+                                        "sampling_error": 0.1123122185, 
+                                        "id": "Stability"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.32469642483694355, 
+                                        "name": "Structure", 
+                                        "sampling_error": 0.0845065605, 
+                                        "id": "Structure"
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "values", 
+                        "name": "Values", 
+                        "children": [
+                            {
+                                "category": "values", 
+                                "percentage": 0.9029480953029662, 
+                                "id": "Self-transcendence_parent", 
+                                "name": "Self-transcendence", 
+                                "children": [
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.16706841884381807, 
+                                        "name": "Conservation", 
+                                        "sampling_error": 0.0718000905, 
+                                        "id": "Conservation"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.8301765750111929, 
+                                        "name": "Openness to change", 
+                                        "sampling_error": 0.06950294, 
+                                        "id": "Openness to change"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.22995149917899982, 
+                                        "name": "Hedonism", 
+                                        "sampling_error": 0.1434649865, 
+                                        "id": "Hedonism"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.7998554811085983, 
+                                        "name": "Self-enhancement", 
+                                        "sampling_error": 0.10935993100000001, 
+                                        "id": "Self-enhancement"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.9029480953029662, 
+                                        "name": "Self-transcendence", 
+                                        "sampling_error": 0.087451525, 
+                                        "id": "Self-transcendence"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            "word_count": 105, 
+            "processed_lang": "en", 
+            "source": "*UNKNOWN*", 
+            "word_count_message": "There were 105 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+            "id": "*UNKNOWN*"
+        }
+    }
+}

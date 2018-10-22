@@ -1,0 +1,497 @@
+{
+    "username": "mohammadmoghimi", 
+    "password": "mohammadmoghimi", 
+    "shortlist": [
+        {
+            "to": "2017-06-30", 
+            "from": "2017-06-22"
+        }, 
+        {
+            "to": "2017-06-15", 
+            "from": "2017-06-01"
+        }
+    ], 
+    "linkedin_id": "", 
+    "name": "Mohammad Moghimi", 
+    "shortlist_status": "You have been shortlisted by the employer. We will notify you soon regarding interview date.", 
+    "communication": "pos", 
+    "_rev": "12-666ced3e1591d8a65948c354ae5d46a7", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                "C#,", 
+                "C", 
+                "C/C++", 
+                "Java", 
+                "Pascal", 
+                "Python"
+            ], 
+            "frontend_languages": [
+                "HTML", 
+                "J2EE", 
+                "JavaScript", 
+                "PHP"
+            ]
+        }, 
+        "text": "Curriculum Vitae\n\nMohammad Moghimi\n\nCurriculum Vitae\n\n9234 Regents Rd Apt H La Jolla, CA, 92037 H (858) 888-3337 B mmoghimi@cs.cornell.edu\n\n\u00cd\n\nhttp://cs.ucsd.edu/~mmoghimi\n\nInterests\n\nComputer Vision (Recognition, Detection and Classification Problems)\n\nMachine Learning/Pattern Recognition\n\nEducation\n\n2010-Now PhD student in Computer Science (Computer Vision), Cornell University, New York, NY.\n\nAdvisor: Prof. Serge Belongie Research: Ego-centric Computer Vision Transferred with advisor from UC San Diego to Cornell University. 2007-2010 MSc in Computer Engineering (Artificial Intelligence), Sharif University of Technology, Tehran, Iran, 18.67/20.\n\nAdvisor: Prof. Shohreh Kasaei Thesis: Multiclass Visual Object Recognition Based on Cluttered Images { Ranked first in national university entrance exam for M.Sc degree in Computer Engineering in year 2007.\n\n{ Ranked first among all Masters students of Computer Engineering Department in 2008. 2003-2007 BSc in Computer Engineering (Software Engineering), University of Tehran, Tehran, Iran, 17.23/20.\n\nAdvisor: Prof. Babak Nadjar Araabi Thesis: University Course Timetabling Using Improved Genetic Algorithm { Ranked second among all of the university computer engineering students in year 2003. 1999-2003 Diploma in Mathematics and Physics, Allameh Helli Highschool, Tehran, Iran. Allameh Helli is the Tehran branch of NODET(National Organization for Development of Exceptional Talents).\n\nResearch Experiences\n\nAug2014-Now Computer Vision Lab, Department of Computer Science, Cornell University, New York, NY .\n\nEgocentric Computer Vision\n\nSep2011- Aug2014 Computer Vision Lab, Department of Computer Science and Engineering, University of California, San Diego, San Diego, CA .\n\n{ Interactive Image-based Geolocation { Egocentric Vision, Object/Activity Recognition\n\nJun2013- Sep2013 AI Group, Facebook Inc, Menlo Park, CA .\n\n1/5\n\nJun2012- Sep2012 Goggles Team, Google Inc, Los Angeles, CA .\n\nSep2010- Jun2011 Systems Energy Efficiency Lab, Department of Computer Science and Engineering, University of California, San Diego, San Diego, CA .\n\nEnergy Management in Mobile Phones\n\nOct2009- Dec2009 Department of Sch\u00f6lkopf, Max Planck Institute for Biological Cybernetics, T\u00fcbingen, Germany.\n\nBlind Deconvolution Using Variational Bayesian Method\n\nFeb2008- Aug2010 Image Processing Laboratory (IPL), Computer Engineering Department, Sharif University of Technology, Tehran, Iran.\n\nMulticlass Visual Object Recognition Based on Cluttered Images\n\nOct2004- Mar2006 Multi-Agent Systems Research Group, University of Tehran Technology Incubator (MASLAB), Tehran, Iran.\n\nDevelopment of Autonomous Soccer Agents for Robocup Competition\n\nAug2006- Oct2006 Sepanta Robotics Research Foundation (SRRF), Tehran, Iran. Multi Processor Task Scheduling\n\nAwards and Honors\n\n2010 UCSD CSE Department Fellowship, UCSD fellowship for the academic year of 2010-2011.\n\n2009 Telecommunication Research Center (ITRC) Research Grant, awarded to my Masters thesis.\n\n2008 3rd Team Rank, 10th Asia Regional ACM Programming Contest along with the \"Until The Last Moment\" team members, 109 teams participated from Iran, Sharif site, Tehran.\n\n2008 1st Rank, Achieving the highest GPA among all university Computer Engineering graduate students.\n\n2007 Silver Medal, 12th National Collegiate Scientific Olympiad in Computer Engineering. 2007 8th Rank, Nationwide M.Sc. entrance exam in Computer Science of Iranian Universities.\n\n2007 1st Rank, Nationwide M.Sc. entrance exam in Computer Engineering-Artificial Intelligence of Iranian Universities.\n\n2006 4th Team Rank, 8th Asia Regional ACM Programming Contest along with the \"Happy Three Friends\" team members, 85 teams participated from Iran, Sharif site, Tehran.\n\n2006 2nd Rank, First Annual Programming Contest, Amirkabir University of Tech, Tehran, Iran.\n\n2006 Successful Participation, Robocup-2006, Roboludens Soccer Simulation 3D League along with the teammates in \"F.I.R.S.T\", Eindhoven, Netherlands.\n\n2005 5th Team Rank, 7th Asia Regional ACM Programming Contest along with the \"Terminator\" team members, 74 teams participated from Iran, Sharif site, Tehran.\n\n2/5\n\n2004 2nd Rank, F.O.E (Faculty of Engineering) 2nd Award for achieving the second best GPA among all university Computer Engineering students.\n\n2004 9th Team Rank, 6th Asia Regional ACM Programming Contest along with the \"UT1\" team members, 72 teams participated from Iran, Sharif site, Tehran.\n\n2004, 2005, 2006 1st Team Rank, University of Tehran Qualification Contest for Asia Regional ACM Programming Contest Tehran Site, Sharif University of Technology. 2003 Top 0.1 %, Nationwide entrance exam of Iranian Universities, very competitive with nearly 500,000 participants.\n\n2002 Bronze Medal, 19th Iran National Mathematics Olympiad, Young Scholars Club (YSC), Tehran.\n\nTeaching Experiences\n\nWinter 2012 Teaching Assistant, Mathematics for Algorithm and Systems Analysis (CSE21) at CSE Department, University of California, San Diego.\n\nFall 2011 Teaching Assistant, Image Processing Course (CSE166) at CSE Department, University of California, San Diego.\n\nSpring 2009 Teaching Assistant, Neural Networks Course (CE40667) at CE Department, Sharif University of Technology.\n\nFall 2008 Teaching Assistant, Advanced Digital Image Processing Course (CE40823) at CE Department, Sharif University of Technology.\n\nSpring 2007 Teaching Assistant, Algorithm Design Course (ECE424) at ECE Department, University of Tehran.\n\nFall 2006 Teaching Assistant, Artificial Intelligence Course (ECE397) at ECE Department, University of Tehran.\n\n2006-2007 Teacher, Computer Course, Allameh Helli High School, Tehran.\n\nSummer 2005 Teacher, Teaching Introduction to Linux Systems, University of Tehran. Spring 2004 Teaching Assistant, Advanced Programming Course (ECE119), ECE Department, University of Tehran.\n\nProfessional Experience\n\nSummer 2013 Intern, Working for Facebook Inc in its headquarters at Menlo Park, CA in the AI Group.\n\nSummer 2012 Intern, Working for Google Inc in the LAX office on Google Goggles. 2011-now Coach, Coaching UCSD ACM/ICPC programming team which advanced to the world finals in 2011.\n\nFall 2009 Intern/Researcher, Research in the field of Machine Learning and Image Processing, Max Plank Institute of T\u00fcbingen, Germany.\n\n2006-2008 Problem Setter and Judge, Problem Setter and Judge of the 3rd, 4th and 5th HelliNet Programming Tournament.\n\n2007-2008 Programmer (Part Time), Developing an Engineering Workstation for a Distributed Control System, Farineh Fanavar Corp.\n\n2005-2007 Problem Setter and Judge, Problem Setter and Judge of University of Tehran's Local Weekly ACM Programming Contests.\n\n3/5\n\nSummer 2006 Intern/Researcher, Working as a researcher in Sepanta Robotic Research Foundation (SRRF).\n\n2004-2006 Researcher, Working as a researcher and manager in Mutli-Agent Systems Lab(MASLAB), University of Tehran.\n\n2004-2005 ACM Officer, Head of ACM Student Chapter of University of Tehran. 2001-2002 Network Administrator, Administration of Allameh Helli's Computer Site.\n\nPublication\n\n2014 M. Moghimi, et. al, \"Classifying Physical Activity and Sedentary Behavior in Life-logging Images\", SUBMITTED TO Proceedings of International Conference on Image Processing Multimedia (ICIP 2014) 2014 M. Moghimi, P. Azagra, L. Montesano, A. C. Murillo, S. Belongie, \"Experiments on an RGB-D Wearable Vision System for Egocentric Activity Recognition\", CVPRW 2014\n\n2014 H. Altwaijry, M. Moghimi, S. Belongie, \"Discriminative Regions: A Substrate for Analyzing Life-logging Image Sequences\", IEEE Winter Conference on Applications of Computer Vision (WACV 2014) 2012 M. Moghimi, J. Venkatesh, P. Zappi, T. Simunic Rosing, \"Context Aware Power Management for Smartphones Using Fuzzy Expert System\", Fourth International Conference on Mobile Computing, Applications and Services (MobiCASE 2012) 2010 A. Ghodrati, M. Moghimi Najafabadi, S. Kasaei, \"Human Action Categorization Using Weighted Spatiotemporal Features\", 18th Iranian Conference on Electrical Engineering (ICEE 2010) 2008 M. Babaeizadeh, M. Moghimi Najafabadi, \"Content-Aware Image Resizing Based on Color\", Proc. of Fifth Iranian Conference on Machine Vision and Image Processing (MVIP 2008)\n\n2007 M. Moghimi Najafabadi, M. Zali: \"Defining Reinforcement Learning Problem to Solve Static Multi Processor Task Scheduling\", accepted by The International Conference on Intelligent Systems Design and Applications (ISDA 2007) 2007 M. Zali , M. Moghimi Najafabadi, M. Salmani Jelodar, \"Task Scheduling in MultiProcessor Systems Using Genetic Algorithm and Reinforcement Learning\", Proc. of 12th International CSI Computer Conference 2007 M. Moghimi Najafabadi, M. Zali, F. Taghiyareh and S. Taheri: \"Static Task Scheduling Using Genetic Algorithm and Reinforcement Learning\", Proc. of IEEE Symposium on Computational Intelligence in Scheduling (CI-Sched 2007) 2006 M. Moghimi Najafabadi and C. Lucas: \"Evolving Artificial Neural Networks for Prediction in Robocup Soccer\", Proc. of Ninth Scientific Computing in Electrical Engineering (SCEE2006), Tehran, Iran, September 2006\n\nLanguages\n\nPersian Mother Tongue English Fluent\n\nArabic Moderate\n\n4/5\n\nComputer skills\n\nProgramming Language C/C++, Python, MATLAB, Java Type Setting LATEX, Open Office, Microsoft Office\n\nFamiliar With C#, Pascal, Prolog Operating System\n\nLinux (Ubuntu), Mac OS X, Mi-crosoft Windows, Android, iOS Web\n\nProgramming HTML, PHP, J2EE, JavaScript Mobile Programming\n\nAndroid\n\nIDE vim/gcc, Intellij Idea, Microsoft Visual Studio\n\n5/5", 
+        "location": "CA", 
+        "experience": 12
+    }, 
+    "linkedin": {
+        "data": ""
+    }, 
+    "_attachments": {
+        "a1012": {
+            "stub": true, 
+            "length": 242091, 
+            "digest": "md5-1iY6gE5YBmsPi6jbtwJa2A==", 
+            "revpos": 5, 
+            "content_type": "application/pdf"
+        }
+    }, 
+    "contact": "36472843738", 
+    "status_comment": "", 
+    "leadership": "neg", 
+    "management": "neg", 
+    "_id": "a1012", 
+    "email": "mmoghimi@cs.cornell.edu", 
+    "attachment_timestamp": "2017-01-12 20:29:21.013000", 
+    "personality": {
+        "text": "Team lead with 12+ years of experience in Business Intelligence and Analytics. I also have experience on application development and end to end implementation. Excellent analytical, programming and design skills.\r\nStrong exposure in performing User requirements studies, analysis, design, and development.\r\nPart of several implementations in BI with rigorous release management standards and Agile Development Methodology.\r\nGood communication and interpersonal skills that helps to build healthy binding within team and customer. Proficiency in wide range of technologies like BI, Cognos, Teradata, Informatica, VB, ASP, SQL, LDAP, Siteminder etc. With high learning spirit, i always take interest in learning new technologies, roles and challenges and very keen on knowledge growth. ", 
+        "insights": {
+            "warnings": [
+                {
+                    "message": "There were 108 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+                    "warning_id": "WORD_COUNT_MESSAGE"
+                }
+            ], 
+            "tree": {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "category": "personality", 
+                                "percentage": 0.04124949124366639, 
+                                "children": [
+                                    {
+                                        "category": "personality", 
+                                        "name": "Openness", 
+                                        "sampling_error": 0.06584157560000001, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9630627024021526, 
+                                                "name": "Adventurousness", 
+                                                "sampling_error": 0.0549508044, 
+                                                "id": "Adventurousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.6324088341236518, 
+                                                "name": "Artistic interests", 
+                                                "sampling_error": 0.1111815104, 
+                                                "id": "Artistic interests"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.08487554589157636, 
+                                                "name": "Emotionality", 
+                                                "sampling_error": 0.0516586384, 
+                                                "id": "Emotionality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.6696123698631172, 
+                                                "name": "Imagination", 
+                                                "sampling_error": 0.0692246804, 
+                                                "id": "Imagination"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9422092457915359, 
+                                                "name": "Intellect", 
+                                                "sampling_error": 0.0609260576, 
+                                                "id": "Intellect"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9966776977738956, 
+                                                "name": "Authority-challenging", 
+                                                "sampling_error": 0.0889304388, 
+                                                "id": "Liberalism"
+                                            }
+                                        ], 
+                                        "percentage": 0.9332178502622523, 
+                                        "id": "Openness"
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Conscientiousness", 
+                                        "sampling_error": 0.0822670432, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9218058064119916, 
+                                                "name": "Achievement striving", 
+                                                "sampling_error": 0.1054488728, 
+                                                "id": "Achievement striving"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.7674026450707498, 
+                                                "name": "Cautiousness", 
+                                                "sampling_error": 0.0974737004, 
+                                                "id": "Cautiousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.24283937956158225, 
+                                                "name": "Dutifulness", 
+                                                "sampling_error": 0.06696875199999999, 
+                                                "id": "Dutifulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.17430513693035488, 
+                                                "name": "Orderliness", 
+                                                "sampling_error": 0.0750303188, 
+                                                "id": "Orderliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.7345567517725353, 
+                                                "name": "Self-discipline", 
+                                                "sampling_error": 0.0506849456, 
+                                                "id": "Self-discipline"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.8546720507754251, 
+                                                "name": "Self-efficacy", 
+                                                "sampling_error": 0.0983925716, 
+                                                "id": "Self-efficacy"
+                                            }
+                                        ], 
+                                        "percentage": 0.23860942120427375, 
+                                        "id": "Conscientiousness"
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Extraversion", 
+                                        "sampling_error": 0.0616535176, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9873422716859306, 
+                                                "name": "Activity level", 
+                                                "sampling_error": 0.0836553104, 
+                                                "id": "Activity level"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.944530672516317, 
+                                                "name": "Assertiveness", 
+                                                "sampling_error": 0.0890602592, 
+                                                "id": "Assertiveness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.2859453870243394, 
+                                                "name": "Cheerfulness", 
+                                                "sampling_error": 0.11178373280000001, 
+                                                "id": "Cheerfulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.5107509427038006, 
+                                                "name": "Excitement-seeking", 
+                                                "sampling_error": 0.0853193728, 
+                                                "id": "Excitement-seeking"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.16155397039744235, 
+                                                "name": "Outgoing", 
+                                                "sampling_error": 0.08043055760000001, 
+                                                "id": "Friendliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0747488310469534, 
+                                                "name": "Gregariousness", 
+                                                "sampling_error": 0.0618095836, 
+                                                "id": "Gregariousness"
+                                            }
+                                        ], 
+                                        "percentage": 0.4121293442719321, 
+                                        "id": "Extraversion"
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Agreeableness", 
+                                        "sampling_error": 0.10244605, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.13862372931849987, 
+                                                "name": "Altruism", 
+                                                "sampling_error": 0.0759630144, 
+                                                "id": "Altruism"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.6957669022851007, 
+                                                "name": "Cooperation", 
+                                                "sampling_error": 0.0844933036, 
+                                                "id": "Cooperation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.05278232467583088, 
+                                                "name": "Modesty", 
+                                                "sampling_error": 0.0608239716, 
+                                                "id": "Modesty"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.11244572089178939, 
+                                                "name": "Uncompromising", 
+                                                "sampling_error": 0.06750835399999999, 
+                                                "id": "Morality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.3308419849799821, 
+                                                "name": "Sympathy", 
+                                                "sampling_error": 0.1037905604, 
+                                                "id": "Sympathy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.9991800843032961, 
+                                                "name": "Trust", 
+                                                "sampling_error": 0.0623399344, 
+                                                "id": "Trust"
+                                            }
+                                        ], 
+                                        "percentage": 0.04124949124366639, 
+                                        "id": "Agreeableness"
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Emotional range", 
+                                        "sampling_error": 0.097110542, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.3249846449005815, 
+                                                "name": "Fiery", 
+                                                "sampling_error": 0.0999135632, 
+                                                "id": "Anger"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.4145466389615049, 
+                                                "name": "Prone to worry", 
+                                                "sampling_error": 0.059579658800000004, 
+                                                "id": "Anxiety"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.7009420162803263, 
+                                                "name": "Melancholy", 
+                                                "sampling_error": 0.0639510316, 
+                                                "id": "Depression"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.017970580643134282, 
+                                                "name": "Immoderation", 
+                                                "sampling_error": 0.057691916, 
+                                                "id": "Immoderation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.7215500281561537, 
+                                                "name": "Self-consciousness", 
+                                                "sampling_error": 0.0616781352, 
+                                                "id": "Self-consciousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.4543109773765611, 
+                                                "name": "Susceptible to stress", 
+                                                "sampling_error": 0.09141264, 
+                                                "id": "Vulnerability"
+                                            }
+                                        ], 
+                                        "percentage": 0.37229714127993063, 
+                                        "id": "Neuroticism"
+                                    }
+                                ], 
+                                "name": "Agreeableness", 
+                                "id": "Agreeableness_parent"
+                            }
+                        ], 
+                        "name": "Big 5", 
+                        "id": "personality"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "category": "needs", 
+                                "percentage": 0.9931055147800958, 
+                                "children": [
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.5776026888938994, 
+                                        "name": "Challenge", 
+                                        "sampling_error": 0.088319644, 
+                                        "id": "Challenge"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.5212314332207447, 
+                                        "name": "Closeness", 
+                                        "sampling_error": 0.0870964632, 
+                                        "id": "Closeness"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.9931055147800958, 
+                                        "name": "Curiosity", 
+                                        "sampling_error": 0.1256498108, 
+                                        "id": "Curiosity"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.4498383147968446, 
+                                        "name": "Excitement", 
+                                        "sampling_error": 0.1150158096, 
+                                        "id": "Excitement"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.33820368154524094, 
+                                        "name": "Harmony", 
+                                        "sampling_error": 0.115365264, 
+                                        "id": "Harmony"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.3240644436071869, 
+                                        "name": "Ideal", 
+                                        "sampling_error": 0.1045250924, 
+                                        "id": "Ideal"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.8049362151347152, 
+                                        "name": "Liberty", 
+                                        "sampling_error": 0.1516141668, 
+                                        "id": "Liberty"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.7420280769472732, 
+                                        "name": "Love", 
+                                        "sampling_error": 0.10610068439999999, 
+                                        "id": "Love"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.8103922730326192, 
+                                        "name": "Practicality", 
+                                        "sampling_error": 0.0924940268, 
+                                        "id": "Practicality"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.6441562397160036, 
+                                        "name": "Self-expression", 
+                                        "sampling_error": 0.0858075524, 
+                                        "id": "Self-expression"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.7238500390041789, 
+                                        "name": "Stability", 
+                                        "sampling_error": 0.11225158160000001, 
+                                        "id": "Stability"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.8913642303854797, 
+                                        "name": "Structure", 
+                                        "sampling_error": 0.0844567368, 
+                                        "id": "Structure"
+                                    }
+                                ], 
+                                "name": "Curiosity", 
+                                "id": "Curiosity_parent"
+                            }
+                        ], 
+                        "name": "Needs", 
+                        "id": "needs"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "category": "values", 
+                                "percentage": 0.09513387282899372, 
+                                "children": [
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.09638775484608164, 
+                                        "name": "Conservation", 
+                                        "sampling_error": 0.0717584508, 
+                                        "id": "Conservation"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.6740314789998445, 
+                                        "name": "Openness to change", 
+                                        "sampling_error": 0.06944075, 
+                                        "id": "Openness to change"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.09513387282899372, 
+                                        "name": "Hedonism", 
+                                        "sampling_error": 0.14341648040000002, 
+                                        "id": "Hedonism"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.2914309841969711, 
+                                        "name": "Self-enhancement", 
+                                        "sampling_error": 0.1093040356, 
+                                        "id": "Self-enhancement"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.6008140661783152, 
+                                        "name": "Self-transcendence", 
+                                        "sampling_error": 0.08738986600000001, 
+                                        "id": "Self-transcendence"
+                                    }
+                                ], 
+                                "name": "Hedonism", 
+                                "id": "Hedonism_parent"
+                            }
+                        ], 
+                        "name": "Values", 
+                        "id": "values"
+                    }
+                ], 
+                "name": "root", 
+                "id": "r"
+            }, 
+            "word_count": 108, 
+            "id": "*UNKNOWN*", 
+            "source": "*UNKNOWN*", 
+            "word_count_message": "There were 108 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+            "processed_lang": "en"
+        }
+    }
+}

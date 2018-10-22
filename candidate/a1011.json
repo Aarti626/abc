@@ -1,0 +1,481 @@
+{
+    "username": "mathewjoes", 
+    "password": "mathewjoes", 
+    "management": "neg", 
+    "linkedin_id": "", 
+    "name": "Mathew Joes", 
+    "communication": "neg", 
+    "_rev": "10-d6cc36410382a5719e64d6e919235eb5", 
+    "resume_parsed": {
+        "skills": {
+            "backend_languages": [
+                "Java"
+            ], 
+            "frontend_languages": [
+                "HTML", 
+                "JSP", 
+                "JavaScript", 
+                "Swing"
+            ]
+        }, 
+        "text": "VISHAL VARMA\n\nMathew Joes\n\nProfessional Summary:\n\n4 years of experience in Core Java and Web Applications using Sun Technologies.\n\nGood Knowledge in the complete Software Development Life Cycle (SDLC) including requirements definition, design, programming / testing and implementation of major systems.\n\nGood knowledge of OOPs (Abstraction, Encapsulation, Inheritance and Polymorphism) and design concepts\n\nGood knowledge in Core Java and Swings\n\nExcellent skills in developing code for the database applications to interact with the databases, using JDBC.\n\nUndertaking the Coding of Project, Fixing the Time Frame for Completion and Assigning the Code Blocks Expertise in working on platforms like Windows 2000/2003/2008, Windows XP.\n\nOutstanding problem solving, strategic thinking and data analysis skills, strong focus on teamwork and achieving team goals, result oriented and Fast Learner.\n\nWillingness to work in a highly dynamic environment and ready to take up challenges.\n\nWork Experience:\n\nDate From Date To Organization Designation\n\nAug 2009 Till date SIEMENS Information System Ltd. Senior System Engineer\n\nAug 2006 July 2009 SIEMENS (S2 InfoTech Pvt Ltd.) System Engineer\n\nObjective:\n\nSeeking to work with a leading organization that provides me ample opportunities to use my technical knowledge and analytical skills. At the same time, a working environment that encourages me to keep myself abreast with the latest technological updates. This way giving me the confidence for putting myself more firmly as one of the best software professional in the industry, and therefore helping the organization to meet its target in a timelier manner\n\nProfessional Qualification:\n\n2003-2006 MCA (78%) Gurukul Kangari University Haridwar (Uttrakhand)\n\nSkills:\n\nDomains /Application/Functional areas worked on Finance, Power\n\nEnvironments worked on Unix, Windows 2000,2008,XP\n\nLanguages/Tools worked on Core Java, Swing, Eclipse3.2, JUnit, Toad, Apache-Ant1.6, Log4j\n\nVersion Control Tool VSS, ClearCase\n\nTools exposed to Microsoft Visio, Code Coverage, JConsole, HPJMeter\n\nDatabases Oracle9i (SQL), MySql\n\nEnterprise application technologies J2EE (Servlet, JSP, EJB, JDBC, Web Service (Axis), JavaScript, HTML)\n\nServers Web logic 8.1\n\nTrainings:\n\nQuality Management System\n\nPrinciples of Rational Unified Process\n\nDOORS\n\nProfessional Experience:\n\n1-SPPA-T3000 (SIEMENS Power Plant Automation T-3000) Feb 2008 - Present\n\nRole: Core Java Developer\n\nDescription:\n\nSPPA-T3000 will set a new benchmark in power plant process automation. SPPAT3000 will not only cover power plant control tasks but also considers the platform for all enterprises in the fields of power generation business. The consequent object-oriented and JAVA-based design, guarantees a software solution that will make others obsolete\n\nIn addition-\n\nWeb based distributed process control system\n\nComponent based software architecture\n\nCommunication between components is TCP/IP based\n\nComponent implementation is mostly JAVA based\n\nFew components has some native implementation also\n\nComponents could be installed on different application servers\n\nTechnology: Core Java, Swing, JDBC, Web Services and MOSS.\n\nDatabase: MySql\n\nOther Tools: Ant, JConsole, Re-Factor IT, Emma-Code Coverage and JUnit\n\nIDE: Eclipse3.5\n\nTeam Size: 5\n\nRoles & Responsibility:\n\nAnalysis of customer requirements to convert into technical specification.\n\nInvolved in new feature development and designing.\n\nAnalyzing, Validating and fixing the defects.\n\nReviewing software codes and design documents.\n\nConfiguration Management- delivery of code into onsite via Clear Case.\n\nInvolved in Unit Test Specification, Design Document Specification and updating.\n\nParticipate in feature discussion, feasibility and estimation of new features with Product Analyst.\n\nResolve customer critical issues with immediate resolution.\n\nPreparing Test Cases, Use Cases and Code Reviews.\n\nWriting optimized algorithms.\n\nJava Performance Tuning using JConsole, HPJMeter.\n\nCoordinating with client and the team.\n\nOthers:\n\nWorked on SharePoint portal.\n\nImplemented Share point features using SharePoint Web services and Core Java.\n\nWorked on POF for automatic deployment of Windows 7 OS using Microsoft Technology-WDS, WAIK7, and MDT-2010.\n\n2 Re-Inventing EPF Aug-2006 \u2013 Jan 2008\n\nRole: Developer\n\nDescription:\n\nThe vision of \"Re-inventing EPF, India\" has envisaged improvement in the functioning of EPFO as an organization providing social security. Accordingly the Key Business Processes that need to be re-engineered were identified.\n\nIn addition, the requirement for a flexible \"building-blocks approach\" to infrastructure design & growth, and simplified design, deployment and integration; as also the key requirements of total separation of the \"presentation logic\", \"business logic\", and \"database\", point towards the multi-tier model as the most appropriate and viable architecture model for EPFO.\n\nThe following modules are covered in proposed System.\n\nCoverage\n\nCompliance\n\nEstablishment Accounting\n\nMember Accounting\n\nInvestment Accounting\n\nFinancial Accounting\n\nPension Processing\n\nPayments\n\nSystem Administration and Members\n\nKeeping in mind of EPFO's key requirements namely, performance, security, openness (platform independence), flexibility, stability, security and availability of mature commercial products point towards J2EE technology as the most appropriate solution.\n\nEnvironment: Java, JSP, Servlet, EJB3.1 (Session Bean), Java Beans, HTML/DHTML, JavaScript\u2019s and Weblogic8.1 with MVC Model\n\nDatabase: Oracle9i\n\nOther Tools: Toad\n\nIDE: JBuilder9\n\nTeam Size: 7\n\nRoles & Responsibilities:\n\nUnderstand the requirement from the Design Specs.\n\nImplementation and analysis of the design and fixing of bugs.\n\nManaging and deploying web components on WebLogic server at HP-UX & Windows Servers\n\nAchievements:\n\nVisited NTPC Power Plant in Faridabad Mar -2009.\n\nCertification of QMS (Having Good knowledge of Process Metrics as per the company standards and preparing RAC (Root Cause Analysis using Fishbone and Pareto diagram and Why Why Analysis), Finding code defects using Code Review, Design Review (In the form of LODs) and calculation of CRY using eKLoc methodology)\n\nPersonal Profile:\n\nA team player and hard working with problem solving skills. Committed and a strong believer in ethics.\n\nPersonal Details:\n\nDate of Birth 5th July, 1981\n\nAddress\n\nNationality Indian\n\nLanguages English, Hindi\n\nMarital Status Married\n\nAyush Agrahari", 
+        "location": "India", 
+        "experience": 10
+    }, 
+    "linkedin": {
+        "data": ""
+    }, 
+    "_attachments": {
+        "a1011": {
+            "stub": true, 
+            "length": 61440, 
+            "digest": "md5-TiWZefqEu+e6wZKxhBHgFA==", 
+            "revpos": 5, 
+            "content_type": "application/msword"
+        }
+    }, 
+    "shortlist": [], 
+    "contact": "7483746273", 
+    "leadership": "neg", 
+    "_id": "a1011", 
+    "email": "mathewjoes@gmail.com", 
+    "attachment_timestamp": "2017-01-12 20:24:21.612000", 
+    "personality": {
+        "text": "I sense that you're busy, but I'll be needing just 15 seconds of your time.\r\nI'm currently working as a Big Data Developer in TCS and so far I have completed 4 projects in which I have contributed to the life-cycle of the project from conceptualization to creating hand-cooked data to visualization/reporting. During the course of the last project, I got more and more seasoned for visualization of dashboards in QlikView and Tableau. Some important principles that I have been tested on were patience, perfection, punctuality and meeting deadlines while working on those projects. Apart from BI Tools, I have appreciable knowledge in other tools and technology that you can find listed below.Apart from my professional life, I love travelling, swimming, reading fictional novels, singing and quizzing.\r\n", 
+        "insights": {
+            "warnings": [
+                {
+                    "message": "There were 129 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+                    "warning_id": "WORD_COUNT_MESSAGE"
+                }
+            ], 
+            "tree": {
+                "id": "r", 
+                "name": "root", 
+                "children": [
+                    {
+                        "id": "personality", 
+                        "name": "Big 5", 
+                        "children": [
+                            {
+                                "category": "personality", 
+                                "percentage": 0.989658042248233, 
+                                "id": "Openness_parent", 
+                                "name": "Openness", 
+                                "children": [
+                                    {
+                                        "category": "personality", 
+                                        "name": "Openness", 
+                                        "sampling_error": 0.0655091078, 
+                                        "id": "Openness", 
+                                        "percentage": 0.989658042248233, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.873666000821572, 
+                                                "id": "Adventurousness", 
+                                                "sampling_error": 0.0546775272, 
+                                                "name": "Adventurousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.953528635038115, 
+                                                "id": "Artistic interests", 
+                                                "sampling_error": 0.1108034852, 
+                                                "name": "Artistic interests"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.78580780962062, 
+                                                "id": "Emotionality", 
+                                                "sampling_error": 0.0513391717, 
+                                                "name": "Emotionality"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.936526710036572, 
+                                                "id": "Imagination", 
+                                                "sampling_error": 0.0689200502, 
+                                                "name": "Imagination"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.98629356645946, 
+                                                "id": "Intellect", 
+                                                "sampling_error": 0.0606171413, 
+                                                "name": "Intellect"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.999921628544005, 
+                                                "id": "Liberalism", 
+                                                "sampling_error": 0.0886327344, 
+                                                "name": "Authority-challenging"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Conscientiousness", 
+                                        "sampling_error": 0.0818416441, 
+                                        "id": "Conscientiousness", 
+                                        "percentage": 0.421439570423136, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.870671448311381, 
+                                                "id": "Achievement striving", 
+                                                "sampling_error": 0.1050331064, 
+                                                "name": "Achievement striving"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.682266938050474, 
+                                                "id": "Cautiousness", 
+                                                "sampling_error": 0.0971293277, 
+                                                "name": "Cautiousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.56583433353811, 
+                                                "id": "Dutifulness", 
+                                                "sampling_error": 0.066412651, 
+                                                "name": "Dutifulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.00105345456962402, 
+                                                "id": "Orderliness", 
+                                                "sampling_error": 0.0747342419, 
+                                                "name": "Orderliness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.154796951255596, 
+                                                "id": "Self-discipline", 
+                                                "sampling_error": 0.0503637128, 
+                                                "name": "Self-discipline"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.587232950480635, 
+                                                "id": "Self-efficacy", 
+                                                "sampling_error": 0.0980552108, 
+                                                "name": "Self-efficacy"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Extraversion", 
+                                        "sampling_error": 0.0613054363, 
+                                        "id": "Extraversion", 
+                                        "percentage": 0.0626819125250237, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.997486480386041, 
+                                                "id": "Activity level", 
+                                                "sampling_error": 0.0833348252, 
+                                                "name": "Activity level"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.326829177522822, 
+                                                "id": "Assertiveness", 
+                                                "sampling_error": 0.0887151221, 
+                                                "name": "Assertiveness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.134029329717106, 
+                                                "id": "Cheerfulness", 
+                                                "sampling_error": 0.1114179989, 
+                                                "name": "Cheerfulness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.250669054724233, 
+                                                "id": "Excitement-seeking", 
+                                                "sampling_error": 0.0850374814, 
+                                                "name": "Excitement-seeking"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.0623838688786639, 
+                                                "id": "Friendliness", 
+                                                "sampling_error": 0.0801318788, 
+                                                "name": "Outgoing"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.000180405973214504, 
+                                                "id": "Gregariousness", 
+                                                "sampling_error": 0.0614780293, 
+                                                "name": "Gregariousness"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Agreeableness", 
+                                        "sampling_error": 0.10213315, 
+                                        "id": "Agreeableness", 
+                                        "percentage": 0.0122854167941315, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.64112646580872, 
+                                                "id": "Altruism", 
+                                                "sampling_error": 0.0756471597, 
+                                                "name": "Altruism"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.785285584897374, 
+                                                "id": "Cooperation", 
+                                                "sampling_error": 0.0842234893, 
+                                                "name": "Cooperation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.293175101309074, 
+                                                "id": "Modesty", 
+                                                "sampling_error": 0.0605078733, 
+                                                "name": "Modesty"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.452731796997192, 
+                                                "id": "Morality", 
+                                                "sampling_error": 0.067221977, 
+                                                "name": "Uncompromising"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.944321506236378, 
+                                                "id": "Sympathy", 
+                                                "sampling_error": 0.1034423552, 
+                                                "name": "Sympathy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.969791082521228, 
+                                                "id": "Trust", 
+                                                "sampling_error": 0.0618338722, 
+                                                "name": "Trust"
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "category": "personality", 
+                                        "name": "Emotional range", 
+                                        "sampling_error": 0.0967458035, 
+                                        "id": "Neuroticism", 
+                                        "percentage": 0.119912958275408, 
+                                        "children": [
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.611345348267683, 
+                                                "id": "Anger", 
+                                                "sampling_error": 0.0995674391, 
+                                                "name": "Fiery"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.871303397010299, 
+                                                "id": "Anxiety", 
+                                                "sampling_error": 0.0592615844, 
+                                                "name": "Prone to worry"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.967846245997905, 
+                                                "id": "Depression", 
+                                                "sampling_error": 0.0635877358, 
+                                                "name": "Melancholy"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.498145646873828, 
+                                                "id": "Immoderation", 
+                                                "sampling_error": 0.057292223, 
+                                                "name": "Immoderation"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.996843626089834, 
+                                                "id": "Self-consciousness", 
+                                                "sampling_error": 0.0613704201, 
+                                                "name": "Self-consciousness"
+                                            }, 
+                                            {
+                                                "category": "personality", 
+                                                "percentage": 0.954240545217839, 
+                                                "id": "Vulnerability", 
+                                                "sampling_error": 0.0910803675, 
+                                                "name": "Susceptible to stress"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "needs", 
+                        "name": "Needs", 
+                        "children": [
+                            {
+                                "category": "needs", 
+                                "percentage": 0.0138386094083781, 
+                                "id": "Love_parent", 
+                                "name": "Love", 
+                                "children": [
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.369706934795499, 
+                                        "id": "Challenge", 
+                                        "sampling_error": 0.087989377, 
+                                        "name": "Challenge"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.0389148804634038, 
+                                        "id": "Closeness", 
+                                        "sampling_error": 0.0867911316, 
+                                        "name": "Closeness"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.976565250431241, 
+                                        "id": "Curiosity", 
+                                        "sampling_error": 0.1253116604, 
+                                        "name": "Curiosity"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.140147094575975, 
+                                        "id": "Excitement", 
+                                        "sampling_error": 0.1146311148, 
+                                        "name": "Excitement"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.264437844933773, 
+                                        "id": "Harmony", 
+                                        "sampling_error": 0.1149425445, 
+                                        "name": "Harmony"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.111158044452731, 
+                                        "id": "Ideal", 
+                                        "sampling_error": 0.1041640562, 
+                                        "name": "Ideal"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.256285383767722, 
+                                        "id": "Liberty", 
+                                        "sampling_error": 0.1512382584, 
+                                        "name": "Liberty"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.0138386094083781, 
+                                        "id": "Love", 
+                                        "sampling_error": 0.1057279722, 
+                                        "name": "Love"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.183395729378447, 
+                                        "id": "Practicality", 
+                                        "sampling_error": 0.0920909759, 
+                                        "name": "Practicality"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.113667417156807, 
+                                        "id": "Self-expression", 
+                                        "sampling_error": 0.0855008537, 
+                                        "name": "Self-expression"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.278298505376379, 
+                                        "id": "Stability", 
+                                        "sampling_error": 0.1118271233, 
+                                        "name": "Stability"
+                                    }, 
+                                    {
+                                        "category": "needs", 
+                                        "percentage": 0.892889585639063, 
+                                        "id": "Structure", 
+                                        "sampling_error": 0.0841079709, 
+                                        "name": "Structure"
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "id": "values", 
+                        "name": "Values", 
+                        "children": [
+                            {
+                                "category": "values", 
+                                "percentage": 0.00536841377050284, 
+                                "id": "Conservation_parent", 
+                                "name": "Conservation", 
+                                "children": [
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.00536841377050284, 
+                                        "id": "Conservation", 
+                                        "sampling_error": 0.0714669729, 
+                                        "name": "Conservation"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.888178689255622, 
+                                        "id": "Openness to change", 
+                                        "sampling_error": 0.06900542, 
+                                        "name": "Openness to change"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.0124888520198124, 
+                                        "id": "Hedonism", 
+                                        "sampling_error": 0.1430769377, 
+                                        "name": "Hedonism"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.340652762469837, 
+                                        "id": "Self-enhancement", 
+                                        "sampling_error": 0.1089127678, 
+                                        "name": "Self-enhancement"
+                                    }, 
+                                    {
+                                        "category": "values", 
+                                        "percentage": 0.867175135063288, 
+                                        "id": "Self-transcendence", 
+                                        "sampling_error": 0.086958253, 
+                                        "name": "Self-transcendence"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            "word_count": 129, 
+            "id": "*UNKNOWN*", 
+            "source": "*UNKNOWN*", 
+            "word_count_message": "There were 129 words in the input. We need a minimum of 600, preferably 1,200 or more, to compute statistically significant estimates", 
+            "processed_lang": "en"
+        }
+    }
+}
